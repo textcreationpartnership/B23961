@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ's righteousness a believer's surest plea for eternal life, or, The doctrine of justification by the imputation of the righteousness of Christ stated, cleared, and vindicated in several sermons on Rom. 3. 22 / by Michael Harrison, minister of Casfield in Bucks.</title>
+            <author>Harrison, Michael, Minister at Potters-Pury.</author>
+         </titleStmt>
+         <extent>Approx. 98KB of XML-encoded text transcribed from 38 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23961</idno><idno type="EEBO-CITATION">8153679</idno>
+  <idno type="VID">204225</idno>
+  <idno type="EEBO-PROQUEST">2248501268</idno>
+  
+            <idno type="STC">Wing H902</idno>
+            <idno type="OCLC">08153679</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23961)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204225)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1230:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ's righteousness a believer's surest plea for eternal life, or, The doctrine of justification by the imputation of the righteousness of Christ stated, cleared, and vindicated in several sermons on Rom. 3. 22 / by Michael Harrison, minister of Casfield in Bucks.</title>
+                  <author>Harrison, Michael, Minister at Potters-Pury.</author>
+               </titleStmt>
+               <extent>[12], 55 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nathanael Ranew,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Bible. --  N.T. --  Romans III, 22 --  Sermons.</term>
+               <term type="topical_term">Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Alexis (Ali) Jakobson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204225:1"/>
+            <pb facs="tcp:204225:2"/>
+            <p>Christ's Righteousness A BELIEVER's Surest PLEA for ETERNAL LIFE: OR, The Doctrine of JUSTIFICATION by the Imputation of the <hi>Righteousness</hi> of Christ, Stated, Cleared, and Vindicated; IN SEVERAL SERMONS On <hi>ROM.</hi> 3.22.</p>
+            <p>By <hi>MICHAEL HARRISON,</hi> Minister of <hi>Casfield</hi> in <hi>Bucks.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Rom. 10.3, 4.</hi>
+               </bibl> For Christ is the End of the Law for Righteousness to every one that believeth.</q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Nathanael Ranew,</hi> at the <hi>King's Arms</hi> in St. <hi>Paul</hi>'s Church-Yard, 1691.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:204225:3"/>
+            <pb facs="tcp:204225:3"/>
+            <head>THE EPISTLE DEDICATORY. To All that desire to be found in Christ, not having their own Righteousness, which is of the Law; but that which is through the Faith of Christ, the Righteousness which is of God by Faith; and more particularly, the Hearers of these Ser<g ref="char:EOLhyphen"/>mons.</head>
+            <p>IT must needs be acknowledged by all to whom the Preaching of the Gospel was been <hi>the Power of God to their Salvation,</hi> Rom. <hi>1.16.</hi> That when Christ displays his victorious Banners upon the Walls of the Sinner's proud and stony heart, and makes all, the Power of the Soul to stoop to the Sceptre of Christ in the blessed work of Regeneration; that from that very day there appears a great and wonderful Change in the whole Man; Body and Soul, Heart and Life are all changed: And as in other things, so it is very wonderful to observe what a change there is in the Mind and Judgment, concerning this own Righteousness; for whereas, before Conversion, he seeks to cover himself with the Fig-leaves of his own Duties, he thinks it easie to make God amends by his own Performances. This you may see in the Exam<g ref="char:EOLhyphen"/>ple of <hi>Paul,</hi> when an uncoverted Pharisee, <hi>Rom. 7.9.
+<pb facs="tcp:204225:4"/> I was once alive without the Law.</hi> Phil. <hi>3.6. Tou<g ref="char:EOLhyphen"/>ching the Righteousness which is in the Law, blameless:</hi> Yet when he is converted, he has quite other Apprehensions of himself; now he sees what be<g ref="char:EOLhyphen"/>fore he admired, were but <hi>splendida Peccata,</hi> shining and glistering Sins; and therefore he flings all away as <hi>filthy Rags,</hi> and flies to Christ for <hi>Righteousness,</hi> and <hi>Strength,</hi> Phil. <hi>3.7. What things were gain to me, those I counted loss for Christ.</hi> V. <hi>8. Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord, for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ.</hi> Ver. <hi>9. And be found in him, not having mine own Righteousness, which is by the Law; but that which is through the Faith of Christ, the Righteousness which is of God by Faith.</hi> Henceforward, though he acts from much bet<g ref="char:EOLhyphen"/>ter Principles than he did before; yea, though he en<g ref="char:EOLhyphen"/>deavours to live and walk in the fear of God all the day long, denying all ungodliness and worldly lusts, living soberly, righteously, and godly in the World, working out his Salvation, adorning the Gospel with all holy and becoming conversation, highly valuing all the Fruits of the Spirit, both in himself and others; yet when he looks at future Glory, and considers what it is that gives him a right and title to it, he files from himself as a filthy leprous Creature, and his best works are esteemed as <hi>rotten Rags,</hi> Isa. <hi>64.6.</hi> And as <hi>Loss and Dung,</hi> Phil. <hi>3.8.</hi> Now Christ is exalted, and the Cry of Faith is, <hi>In the Lord</hi> (not in our selves) <hi>have we Righteousness and Strength,</hi> Isa. <hi>45.24, 25.</hi>
+            </p>
+            <p>Thus it is with all the Children of God that have tasted of the heavenly Gift in a saving manner, though
+<pb facs="tcp:204225:4"/> not with all in a like measure: For some, after they are got through the Straits of the New Birth, pre<g ref="char:EOLhyphen"/>sently get upon the wing of Faith, feeding and feasting upon the riches of Free Grace; fetching all their Com<g ref="char:EOLhyphen"/>forts immediately from Christ, the Original of all Grace; Faith every day bringing fresh Supplies from him; they are not so much cast down with a sense of their own imperfections, and weakness in Grace, (tho' they are humbled for these,) knowing they appear be<g ref="char:EOLhyphen"/>fore God, not in their own, but Christ's Righteousness. Hence it is they can triumph in Christ, and in the holy boldness of Faith, even dare their Accusers to bring in all their Accusations against them, <hi>Rom. 8.33, to the end;</hi> and these, of all Christians under Heaven, live the sweetest, and most joyful Lives.</p>
+            <p>Yet others, and those the greatest Number of Chri<g ref="char:EOLhyphen"/>stians, (though the Work upon their hearts be sound, and they have heartily given up themselves to Christ, to be saved by him,) are either kept bowed down by a Spirit of Bondage, and legal Terrors, or else stay in the Rudiments of Christ in their own hearts, and neg<g ref="char:EOLhyphen"/>lect Christ himself; are still poring upon their Graces, and enquiring after Signs and Marks of Sincerity, and accordingly are lifted up, or cast down, as they find it in themselves.</p>
+            <p>Now the Signs and Marks of Grace are of great Ʋse to Believers; for hereby we may prove our selves, whether we are in the Faith or no.</p>
+            <p>These Graces we may view with comfort and de<g ref="char:EOLhyphen"/>light, as Signs and Tokens of the Love of Christ to us; but yet it is a great Errour among Christians, who are married to Christ, to look at Christ our spi<g ref="char:EOLhyphen"/>ritual Husband, only by reflexion, and at second hand, through the int<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>vention and assistance of our own Graces; whereas Christ himself should be admired above all.</p>
+            <pb facs="tcp:204225:5"/>
+            <p>For the great Work and Office of Faith, is, to carry us out of our selves, above all Graces, and in<g ref="char:EOLhyphen"/>herent Excellencies, to Christ, to live immediately on Christ, for Pardon, Justification, and Life; as may be seen, <hi>Isa. 45.24. In the Lord have we Righteousness:</hi> Therefore, whenever we take a view of our Graces, let us be sure first to look out of our selves to Christ for Justification.</p>
+            <p>Now one great Reason why many Heaven-born Souls do so rarely and slenderly act Faith on Christ immediatly, for Justification, but are more familiarly conversant with their Graces, I take to be that of the Apostle. <hi>2 Pet. 1.8. Barrenness in the knowledge of our Lord and Saviour Jesus Christ;</hi> and par<g ref="char:EOLhyphen"/>ticularly this blessed Truth of Justification by the Righteousness of Christ; for I have often observed, that though it be a received Principle among Christi<g ref="char:EOLhyphen"/>ans, that we are saved, and justified by Christ; yet there remains (too often) so much darkness and con<g ref="char:EOLhyphen"/>fusion upon the understanding, in this Matter, that their eyes are but half open; and so cannot act Faith with that clearness and distinctness that they should do.</p>
+            <p>Now, as a Remedy against this, let us study this blessed Doctrine of Justification. The right under<g ref="char:EOLhyphen"/>standing of this Truth, will set Matters right with us in these Cases; so that we shall be able to live in the use; and right improvement of our Graces, and yet to live above them, immediately by Faith in Christ.</p>
+            <p>The first thing that engaged me in the study of this Point, was, that I might rectifie the aforesaid Er<g ref="char:EOLhyphen"/>rors in my self, and others. I had then no other End in Preaching, nor have none else now in Publishing, but that the savoury Knowledge of Christ may be pro<g ref="char:EOLhyphen"/>pagated
+<pb facs="tcp:204225:5"/> in the hearts of those who were then Hearers, or that shall now be Readers of this heavenly Truth.</p>
+            <p>If any desire a Reason of the Publication hereof, let them know, 'tis not a Volunteer, but a pressed Sol<g ref="char:EOLhyphen"/>dier into the Field of the Church: For, since the Preaching, which was some Months ago, I have been much solicited to make it publick. And yet I have as mean Thoughts of it, so far as it is mine, as any other can have, and did endeavour to have had it done by a more skilful Hand. If any say, there is no need of any Things more on this Subject, it has been so well and clearly handled by several Learned Men: I Answer, This is only designed for such as have not Time to peruse, or Money to purchase larger Volumes. And therefore, whatever Weaknesses you may spy in the Author, and Ʋnskilfulness in han<g ref="char:EOLhyphen"/>dling the Subject, the Truth it self calls for your serious Attention. It is a Truth that infinitely con<g ref="char:EOLhyphen"/>cerns the Peace and Comfort of every one of your Souls. And therefore let me commend it to you; especially you that were the Hearers of it; it is prin<g ref="char:EOLhyphen"/>cipally intented for your Ʋse and Comfort. And that you may the more freely and chearfully receive it in the love of it; Consider,</p>
+            <p n="1">
+               <hi>1.</hi> It is no new, or novel Doctrine; but what has been owned by the Church and People of God in every Age.</p>
+            <p>Ʋnder the Law it was clearly typified, <hi>Psal. 51.7.</hi> as you will find clearly proved in the ensuing Sermon. And then in the Gospel it was fully open'd, Rom. <hi>1.17.</hi> as hereby also will appear at large. And then by the ancient Fathers it was clearly taught in the several Ages of the Church, as may fully appear by these Ex<g ref="char:EOLhyphen"/>amples
+<pb facs="tcp:204225:6"/>
+               <hi>Hilarius</hi> saith, Faith alone justifieth,<note n="*" place="bottom">
+                  <hi>Can.</hi> 8 in <hi>Math.</hi> Fides enim sola justificat.</note> St. <hi>Ambrose</hi> often uses the Term, <hi>Sola Fide,</hi> Faith alone justifieth. St. <hi>Chrysostom</hi> saith, the Thief believed only, and was justified<note n="‖" place="bottom">In <hi>Hom.</hi> de Fide &amp; Lege Naturae.</note>. St. <hi>Augustin</hi> saith, Works go not before Justification, but follow it<note n="*" place="bottom">Contra duas <hi>Epist Pelag. cap.</hi> 21. &amp; <hi>Tom.</hi> 4. <hi>Epist.</hi> ad <hi>Rom pag.</hi> 11 93. Non enim merito sui tanquam ex ope<g ref="char:EOLhyphen"/>ribus sed Dei Gratia Fide Justificatus est Homo.</note>. And here let me tell you, that although this Heaven<g ref="char:EOLhyphen"/>ly Doctrine be much opposed by a Generation of Men, that pretend a great Tenderness and Honour for the Church; yet in Truth, are the Church's back friends, or rather real Enemies: For while they shew much Zeal and Tenderness for a disputable Ceremony, they invade the Church in her Fundamental Articles. Now that you may know what was the Sense of our first Reformers, and what is the Judgment of the Church of <hi>England</hi> in this Point of Justification, I'll here set down the 11th Article in their own Words.</p>
+            <q>We are accounted righteous before God, only for the Merits of our Lord and Saviour Jesus Christ, by Faith, and not for our own Works and Deser<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings: Wherefore that we are justified by Faith on<g ref="char:EOLhyphen"/>ly, is a most wholsome Doctrine and very full of Comfort, as more largely is expressed in the Ho<g ref="char:EOLhyphen"/>mily of Justification.</q>
+            <p>And then in the Homily of Justification, which this Article refers us to, we read, <q>That because all Men are Sinners, and Breakers of his Law; there<g ref="char:EOLhyphen"/>fore can no Man by his own Works (seem they ne<g ref="char:EOLhyphen"/>ver so good) be justified and made righteous before
+<pb facs="tcp:204225:6"/> God; but every Man is constrained of necessity to seek for another Righteousness to be received at God's own Hands;—and this Righteousness, which we so receive of God's Mercy and Christ's Merits, embraced by Faith, is taken, accepted, and allowed of God for our perfect and full Justi<g ref="char:EOLhyphen"/>fication.—Christ has made Satisfaction and Amends to his Father for our Sins: And <hi>pag. 13.</hi> Three things must go together in our Justification; upon God's Part, his great Mercy; on Christ's Part, Justice, <hi>i. e.</hi> the Satisfaction of God's Ju<g ref="char:EOLhyphen"/>stice, or the Price of our Redemption, by offering his Body, and shedding his Blood, with fulfilling of the Law perfectly. And on our part a true and lively Faith in the Merits of Christ: — And <hi>p. 15.</hi> Whosoever denieth this Doctrine of Justifi<g ref="char:EOLhyphen"/>cation by Faith alone, is not to be accounted for a Christ-man: And again, <hi>p. 17.</hi> They that preach, Faith only justifieth, do not teach carnal Liberty.</q> But why should I stand transcribing, the whole Ho<g ref="char:EOLhyphen"/>mily doth clearly declare and assert the Doctrine of Justification by Faith alone. Therefore I beseech you, receive it in the Love of it; and that the rather, be<g ref="char:EOLhyphen"/>cause in the next Place,</p>
+            <p n="2">
+               <hi>2.</hi> It is a Fundamental Truth. <hi>Luther</hi> calls it, <hi>Articulus stantis &amp; Cadentis Ecclesiae,</hi> that Truth with which the Church stands or falls: And <hi>Chem<g ref="char:EOLhyphen"/>nitius</hi> calls it, <hi>Arx &amp; Propugnaculum Religionis Christianae,</hi> The very Strength and Bulwork of the Christian Religion. If we lost it, we lose one of the most sacred Truths in the Bible; that which has been sealed to by the Blood of Martyrs; therefore Christians hold it fast, <hi>Rev. 2.25. Hold fast till I come.</hi>
+            </p>
+            <p n="3">
+               <pb facs="tcp:204225:7"/>
+               <hi>3.</hi> The right Ʋnderstanding of this Doctrine will tend very much in scatter Temptations, and settle a lasting Peace in the Souls of the Godly. I have often observed, that those Christians that are either igno<g ref="char:EOLhyphen"/>rant of, or erroneous in this Fundamental Truth, they sink deepest into, and lie longest in those Plunges of Spiritual Horror and Soul Agonies, that the dearest of Gods Children are liable to: And they soonest re<g ref="char:EOLhyphen"/>cover themselves from under all Satan's pressing and sinking Temptations, that by this hand of Faith can single out Christ, and hang on him for Relief, as appears, <hi>Rom. 5.</hi> when this conclusion is once clear to the Soul, <hi>that Christ died for our Sins; and rose again for our Justification,</hi> as <hi>Chap. 4. v. 25.</hi> And <hi>that we are justified by Faith,</hi> Chap. <hi>5.1.</hi> Then the Soul can triumph, as it follows, <hi>we have Peace with God through our Lord Jesus Christ, v. 2. We can then rejoice in the Hope of the Glory of God;</hi> Yea; <hi>Glory in Tribulation.</hi> See <hi>Rom. 8.33.34.</hi>
+            </p>
+            <p n="4">
+               <hi>4.</hi> That Opposition corrupt Nature makes against this Truth may not a little commend it to us, its a Truth that carnal Reason cannot submit to: Hence is that Saying, that every Man is born with a Pope in his Belly; <hi>i. e.</hi> Man naturally is a proud Creature; he will not be beholden to Christ for Righteousness, but would bring in his own Righteousness to have some share in the Work.</p>
+            <p>Here's nothing that may please the Curious, but much that may profit the serious: Read with a desire to profit; the Faults are the Authors, but the Truths
+<pb facs="tcp:204225:7"/> are Christ's. To conclude, I shall as heartily pray that every Reader may get good by Reading, as I heartily beg that all that reap any Profit, would put up a Prayer to the Throne of Grace, for an unworthy Servant of Christ in the Ministry,</p>
+            <closer>
+               <signed>Michael Harrison.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:204225:8"/>
+            <pb facs="tcp:204225:8"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>THE Text opened; and that Phrase, <hi>The Righteosness of God,</hi> cleared.</item>
+               <item>
+                  <hi>Doct.</hi> There is no other Way for a Sinner to be justi<g ref="char:EOLhyphen"/>fied in the sight of God, but by the Imputation of the Righteousness of Christ, received by Faith a<g ref="char:EOLhyphen"/>lone.</item>
+            </list>
+            <list>
+               <item>
+                  <hi>Here Four Things.</hi>
+                  <list>
+                     <item>
+                        <hi>I.</hi> What Justification is: Where Three Things are spoke to.
+<list>
+                           <pb facs="tcp:204225:9"/>
+                           <item>
+                              <hi>1.</hi> The Persons justified, <hi>viz.</hi> awakened, convinced, believing Sinners.</item>
+                           <item>
+                              <hi>2.</hi> The Plea the Sinner makes at God's Bar, <hi>viz.</hi> Satisfaction to the Justice of God, by Jesus Christ.</item>
+                           <item>
+                              <hi>3.</hi> The Sinner's Acquittance at God's Bar; which is, <hi>1.</hi> Ʋpon Believing. <hi>2.</hi> At Death. <hi>3.</hi> At Judgment.</item>
+                        </list>
+                     </item>
+                     <item>
+                        <hi>II.</hi> The Point proved. Justification cannot be with<g ref="char:EOLhyphen"/>out a Righteousness: This Righteousness not in us; <hi>Proved:</hi> but it is the Righteousness of Christ; <hi>Proved,</hi> &amp;c.</item>
+                     <item>
+                        <hi>III.</hi> How Christ's Righteousness becomes ours,
+<list>
+                           <item>
+                              <hi>1.</hi> On God's part; It is imputed to us. <hi>First,</hi> As the Sin of <hi>Adam</hi> makes us Sinners; so Christ's Righ<g ref="char:EOLhyphen"/>teousness makes us righteous. <hi>Secondly,</hi> As our Sins were imputed to Christ; so Christ's Righte<g ref="char:EOLhyphen"/>ousness is imputed to us. <hi>This farther appears; 1.</hi> In that Christ was a common Person. <hi>2.</hi> A Surety, <hi>&amp;c.</hi>
+                           </item>
+                           <item>
+                              <hi>2.</hi> On our part; We received it by Faith. <hi>Where is shewed, First,</hi> What Saving Faith is. <hi>Second<g ref="char:EOLhyphen"/>ly,</hi> How Faith justifies.</item>
+                        </list>
+                     </item>
+                     <pb facs="tcp:204225:9"/>
+                     <item>
+                        <hi>IV.</hi> Objections against Justification by Imputed Righ<g ref="char:EOLhyphen"/>teousness; <hi>Answered.</hi>
+                     </item>
+                     <item>
+                        <hi>V.</hi> Application. <hi>1.</hi> Of Information; in Six Things. <hi>2.</hi> Of Examination. <hi>3.</hi> Of Exhortation.</item>
+                  </list>
+               </item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:204225:10"/>
+            <pb n="1" facs="tcp:204225:10"/>
+            <head>Christ's Righteousness, A BELIEVER'S PLEA for ETERNAL LIFE.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Rom. 3.22.</hi>
+                  </bibl> Even the Righteousness of God, which is by Faith of Jesus Christ into all, and upon all them that believe; for there is no difference.</q>
+            </epigraph>
+            <p>MY Purpose being to open unto you that Hea<g ref="char:EOLhyphen"/>venly Doctrine of Justification, by the Im<g ref="char:EOLhyphen"/>putation of the Righteousness of Christ, I have chosen this Text, as very pertinent thereunto.</p>
+            <pb n="2" facs="tcp:204225:11"/>
+            <p>The Apostle, in the Ninth Verse of this Cha<g ref="char:EOLhyphen"/>pter, shews us what a sad and miserable Estate and Condition both <hi>Jews</hi> and <hi>Gentiles</hi> are in by Nature <hi>(viz.)</hi> under Sin<note n="*" place="bottom">Subjectos seu obnoxios esse Maledictioni at{que} Damna<g ref="char:EOLhyphen"/>tioni quae Peccatis debetur, <hi>Piscat</hi> in Locum.</note>; that is, liable to the Curse and Wrath of God; and to the eter<g ref="char:EOLhyphen"/>nal Damnation of Hell, which is the just Reward of Sin. This is the State and Condition of all, none excepted, <hi>Eph.</hi> 2.3. <hi>And were by Nature Children of Wrath, even as others.</hi>
+            </p>
+            <p>And because it is hard to convince Men, that they are thus vile and miserable by Nature; therefore the Apostle proves it by a Testimony out of <hi>Psal.</hi> 14.3. <hi>They are all gone aside, they are altogether become filthy,</hi>
+               <note n="‖" place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>Ne-ela-hhu,</hi> The Word signifies <hi>Stinking, Nauseous, Loathsome, Abominable:</hi> And such is every un<g ref="char:EOLhyphen"/>regenerate Man in God's Sight, and all that he doth.</note>
+               <hi>There is none that doth good, no not one:</hi> In which Scripture we may see what vile, sinful, miserable Creatures we are all by Nature: To which the Apostle adds many other Testimonies, to prove how Sin has diffused its malignant Influences throughout the whole Man, Body and Soul. Man, since the Fall, is such a degenerate filthy Creature, that <hi>from the Soal of the Foot to the Head, there is no Soundness; but Wounds, Bruises, and putrifying Sores,</hi> Isa. 1.6.</p>
+            <p>Now Verse 20. and so on, in this, and Cha<g ref="char:EOLhyphen"/>pter 4, 5, 6, 7, 8. The Apostle shews us the way
+<pb n="3" facs="tcp:204225:11"/> of Recovery out of this sinful, and miserable State. Now Salvation from Sin and Misery, is only by <hi>Jesus Christ;</hi> who, that he may save us, doth these two things for us. First, he fulfills the Law for us, <hi>Rom.</hi> 8.3, 4. And presents us righ<g ref="char:EOLhyphen"/>teous to the Father in his pure and spotless Righ<g ref="char:EOLhyphen"/>teousness, which is our Justification. Secondly, He infuses a Righteousness, by his Holy Spirit, into our Hearts, as <hi>Ezek.</hi> 36, 25, 26, 27. which is our Sanctification. The latter of these, <hi>(viz.)</hi> the Doctrine of Sanctification is treated on in the Sixth and Seventh Chapters; as a Consequent of Justification, which is directly handled in the latter part of this Third Cha<g ref="char:EOLhyphen"/>pter; and so throughout the Fourth and Fifth Chapters. It is the first of these, <hi>(viz.) Justi<g ref="char:EOLhyphen"/>fication,</hi> that we are now to treat on.</p>
+            <p>Now <hi>Justification</hi> must either be by an inherent Righteousness in our selves, which is the Righte<g ref="char:EOLhyphen"/>ousness of Works, or else, by a Righteousness without us; which is the Righteousness of Christ.</p>
+            <p>But not by the Works of the Law, or inherent Righteousness in our own Persons. <hi>Ver.</hi> 20. <hi>By the Works of the Law shall no Flesh be justified in his sight;</hi> that is, it is altogether impossible, that any of the lapsed Race of <hi>Adam,</hi> should be re<g ref="char:EOLhyphen"/>covered, justified, and have a Title to Eternal Life by any Righteousness of their own. For though our Natures be sanctified, and our Obe<g ref="char:EOLhyphen"/>dience sound and sincere; yet can it not procure for us Pardo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Sin, and Acceptance in God's
+<pb n="4" facs="tcp:204225:12"/> Sight: No, this is only by the Righteousness of Jesus Christ, as in the Text; not by the Law: How then? <hi>Even (by) the Righteousness of God, which is by Faith of Jesus Christ, unto all, and upon all that believe.</hi>
+            </p>
+            <p>In the Text you may take notice of these Four Things:</p>
+            <p n="1">1. The internal moving Cause of our Justifica<g ref="char:EOLhyphen"/>tion; and that is, the Free Grace and Favour of God, intimated here, in this Phrase, The <hi>Righ<g ref="char:EOLhyphen"/>teousness of God:</hi> And more fully express'd, <hi>v.</hi> 24. <hi>Being justified freely by his Grace.</hi> Nothing else could move God to save, and justifie Sinners, but his mere Free Grace and Mercy. <hi>Ephes.</hi> 2.8. <hi>By Grace ye are saved.</hi>
+            </p>
+            <p n="2">2. Here is the Material Cause of our Justifica<g ref="char:EOLhyphen"/>tion, and that is, the Righteousness of Christ imputed; called in the Text, <hi>The Righteousness of God;</hi> that is, the Righteousness of him who is God blessed for ever, Amen, as, 2 <hi>Pet.</hi> 1.1. <hi>Through the Righteousness of God, and our Saviour Jesus Christ:</hi> Not the Righteousness of God, and our Saviour, as denoting Two Persons, <hi>viz.</hi> the Father, and the Son; but God and our Saviour; that is, our Sa<g ref="char:EOLhyphen"/>viour, who is God; as Bishop <hi>Downham</hi> ob<g ref="char:EOLhyphen"/>serves.</p>
+            <p n="3">3. Here are the Persons justified, (<hi>viz. All that believe,</hi> Gentiles, <hi>as well as</hi> Jews; <hi>bound, as well as free; for there's no difference of Persons or Na<g ref="char:EOLhyphen"/>tions;</hi>
+               <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut all true Believers have a saving In<g ref="char:EOLhyphen"/>terest
+<pb n="5" facs="tcp:204225:12"/> in this Righteousness, and shall be justified by it.</p>
+            <p n="4">4. Here is the Internal Instrument of our Justi<g ref="char:EOLhyphen"/>cation; whereby, as with a Hand, the Believer apprehends, and lays hold on Christ: for Justifica<g ref="char:EOLhyphen"/>tion; and that is <hi>Faith: Even the Righteousness of God, which is by Faith of Jesus Christ.</hi>
+            </p>
+            <p>Before we come to the Doctrine, let us shew what is here meant by the <hi>Righteousness of God.</hi> Some by it understand, The <hi>Mercy of God;</hi> and so it is sometimes taken in the Old Testament: <hi>Psal.</hi> 103.17. <hi>The Mercy of the Lord is upon them that fear him, and his Righteousness unto Childrens Children.</hi>
+            </p>
+            <p>Where <hi>Mercy</hi> and <hi>Righteousness</hi> seem to be the same; but in the New Testament, where this Phrase often occurs, it is never so taken: Some take it to be the same with <hi>Sanctification,</hi> or inhe<g ref="char:EOLhyphen"/>rent Righteousness in the Person of the Believer: But our Graces, though they come down from Heaven, are never called <hi>The Righteousness of God;</hi> but are still called <hi>Our own Righteousness:</hi> there<g ref="char:EOLhyphen"/>fore we read, <hi>Your Faith,</hi> Rom. 1.8. <hi>Your Love,</hi> 2 Cor. 8.8 <hi>Your Patience,</hi> Luke 21.19 <hi>Your Faith and Hope,</hi> 1 Pet. 1.21. <hi>Your Righteousness,</hi> Mat. 5.20. That which the Scripture calls <hi>The Righteousness of God,</hi> is not the same with that which is here, and in other places, called <hi>our own:</hi> If by the <hi>Righteous<g ref="char:EOLhyphen"/>ness of God,</hi> were meant Inherent Grace, then <hi>Faith</hi> would be a part of it; but this Righteous<g ref="char:EOLhyphen"/>ness is by <hi>Faith;</hi> therefore it is not <hi>Faith.</hi> The Text saith, This <hi>Righteousness of God is upon them that believe;</hi> therefore 'tis not in them. Others
+<pb n="6" facs="tcp:204225:13"/> take it for <hi>Pardon;</hi> but this cannot be; for <hi>Rom.</hi> 10.3. The <hi>Jews</hi> were <hi>ignorant of God's Righteous<g ref="char:EOLhyphen"/>ness;</hi> but they were not ignorant that God was a <hi>God pardoning Sins.</hi> No, but they were ignorant of being made righteous in the Righteousness of ano<g ref="char:EOLhyphen"/>ther. They did not look for a Righteousness without themselves: But by the <hi>Righteousness of God,</hi> is there meant the Righteousness of Christ; as manifestly appears, <hi>v.</hi> 4. <hi>Christs the end of the Law for Righteousness to every one that believeth; i. e.</hi> Justification by the Righteousness of Christ, was what the Moral Law directed us to, by con<g ref="char:EOLhyphen"/>vincing us of Sin, and shewing our own inability to help our selves; and therefore if we will have Righteousness, and Life, we must seek it in another. The Ceremonial Law was our School-master to bring us to Christ; for all the Ceremonial Law was <hi>a shadow of good things to come,</hi> Heb. 10.1. All directed to Christ, and Salvation by his Bloud. And so all those Places in the New Testament, that speak of the <hi>Righteousness of God,</hi> still the Righteousness of Christ is to be understood.</p>
+            <p>Having now cleared the Text, we come to the Point of Doctrine that naturally flows from it.</p>
+            <p rend="hangingIndent">Doct. <hi>There is no other Way for a Sinner to be justified in the sight of God, but by the Imputation of the Righteousness of Christ, received by Faith alone.</hi>
+            </p>
+            <p>In speaking to this Heavenly Truth, I shall do these Five Things:
+<list>
+                  <pb n="7" facs="tcp:204225:13"/>
+                  <item>1. Shew you what <hi>Justification</hi> is.</item>
+                  <item>2. Prove that it is the Righteousness of Christ imputed, for which we are accounted just and righteous at God's Bar.</item>
+                  <item>3. Shew how the Righteousness of Christ be<g ref="char:EOLhyphen"/>comes ours.</item>
+                  <item>4. Answer some Objections, usually made a<g ref="char:EOLhyphen"/>gainst Justification by Faith alone.</item>
+                  <item>5. Make Application of the whole.</item>
+               </list>
+            </p>
+            <p>
+               <hi>First.</hi> What is <hi>Justification?</hi>
+            </p>
+            <p>And here, that we may not stumble at the Threshold, and so lose our Way; let us not con<g ref="char:EOLhyphen"/>found <hi>Justification</hi> and <hi>Sanctification</hi> together, as if there were no Difference. For although <hi>Justi<g ref="char:EOLhyphen"/>fication</hi> and <hi>Sanctification</hi> do always go together, and are ever found together in the same person; a justified person is always sanctified, and a sancti<g ref="char:EOLhyphen"/>fied person is ever justified; yet they differ one from another: For <hi>Sanctification</hi> is that heavenly and blessed Work of the Holy Spirit in our Hearts, whereby an elect Sinner being awakened, convinced, and humbled for Sin, and being re<g ref="char:EOLhyphen"/>newed in the whole Man, after the Image of God, heartily repents of all Sin, and turns from it unto God; as, <hi>Isa.</hi> 55.7. walking ever after in New<g ref="char:EOLhyphen"/>ness of Life. In <hi>Sanctification,</hi> the Work is with<g ref="char:EOLhyphen"/>in us; but in <hi>Justification</hi> without us: For,</p>
+            <p>
+               <hi>Justification</hi> is an Act of God's free Grace unto Sinners; wherein he pardoneth all their Sins, and accepteth, and accounteth their Persons righte<g ref="char:EOLhyphen"/>ous in his sight; not for any Righteousness wrought in them; but only for the perfect Righ<g ref="char:EOLhyphen"/>teousness
+<pb n="8" facs="tcp:204225:14"/> of Christ, imputed to them by God, and received by Faith alone.</p>
+            <p>And for the better understanding this Heaven<g ref="char:EOLhyphen"/>ly Truth, let us consider the Process at God's Bar in the Act of <hi>Justification,</hi> in these Three Things:</p>
+            <p n="1">1. The Persons justified, <hi>viz. Sinners.</hi> For so the Apostle saith, <hi>Rom.</hi> 4.5. That those that are justified by God, are first ungodly; and it must needs be so; for if a Man be innocent, guilty of no Crime, and nothing laid to his charge, he may be praised, his Innocency and Righteousness declared, and published; but he is not properly justified.</p>
+            <p>But it is not all Sinners that are made partakers of this blessed Privilege; but accused, impeached, awakened Sinners: He that is justified, must first be accused at God's Bar, the injured and vi<g ref="char:EOLhyphen"/>olated Law puts in its Plea against the Sinner, <hi>John</hi> 5.45. <hi>Think, not that I will accuse you to the Father; there is one that accuseth you, even</hi> Moses, <hi>in whom ye trust; i. e.</hi> the Moral Law of <hi>Moses,</hi> in the Works whereof you trust to be justified, shall condemn you who <hi>continue not in all things written therein, to do them,</hi> Gal. 3.10.</p>
+            <p>Now we are all Sinners, and Breakers of the Law; the Law cites us to appear at God's Bar, there to answer what shall be laid to our Charge.</p>
+            <pb n="9" facs="tcp:204225:14"/>
+            <p>Now by the way, examine, Have you ever been convinced of your Guilt? The first Step to Justification, is Accusation, <hi>John</hi> 16.8. <hi>When he, (i. e.</hi> the Spirit,) <hi>is come, he will convince the World of Sin.</hi>
+            </p>
+            <p>Many do not think themselves to be thus guil<g ref="char:EOLhyphen"/>ty, that the Law has any such great Matter to charge upon them; as St. <hi>Paul</hi> before Conversion, <hi>Rom.</hi> 7.9, 10. <hi>I was alive without the Law once;</hi> that is, I once thought my self in a happy and safe condition, as to my Soul; my Conscience never troubled me, being a Stranger to my Sin and Mi<g ref="char:EOLhyphen"/>sery; but when the <hi>Commandment came, Sin revi<g ref="char:EOLhyphen"/>ved, and I died;</hi> that is, when I had right appre<g ref="char:EOLhyphen"/>hensions of the Law, I found my Peace was false and deceitful; the Law cursed, and accused me; my Conscience then was wounded, I did see my self a lost Man.</p>
+            <p>O my dear Friends in Christ, has it been thus with you? Justified you can never be, till you are first brought to God's Bar, and your Hearts wounded for Sin, <hi>Acts</hi> 2.37.</p>
+            <p n="2">2. The Second Step is, that Plea that the Ac<g ref="char:EOLhyphen"/>cused Sinner makes for himself at God's Bar: He that is arraigned must plead <hi>Guilty, or not Guilty, Not Guilty</hi> we cannot plead; for we are all Sin<g ref="char:EOLhyphen"/>ners, <hi>Rom.</hi> 3.9. <hi>All,</hi> both <hi>Jews</hi> and <hi>Gentiles, are un<g ref="char:EOLhyphen"/>der Sin.</hi> As to this Plea, every Mouth is stopped, and all the World become <hi>guilty before God,</hi> Rom. 3.19.</p>
+            <pb n="10" facs="tcp:204225:15"/>
+            <p>Now the Sinner's Plea at God's Bar, is, <hi>Guilty,</hi> O Lord, <hi>We are guilty of all that thy righteous Law charges upon us; we deserve the Curse and Penalty it threatens.</hi> Now there is a double Plea that the guilty Sinner may make.</p>
+            <p n="1">1. For the accused, condemned Sinner to plead meer Mercy; as when a Person is arraigned, con<g ref="char:EOLhyphen"/>vinced of the Crime; but before Sentence is pro<g ref="char:EOLhyphen"/>nounced, he is asked what he has to say why Sentence of Condemnation should not be pro<g ref="char:EOLhyphen"/>nounced; he freely confesseth the Crime, only pleads Mercy, throws himself upon the Mercy of the Judge; but this is not to plead, but rather to beg. I do not say, God could not have saved Man this way, by passing a meer Act of Sove<g ref="char:EOLhyphen"/>reign Grace, discharging a Sinner out of meer Mercy, without respect to his Justice; but this I may be bold to say, God will not save Men so, but that his Justice, as well as Mercy may be glo<g ref="char:EOLhyphen"/>rified thereby. True it is, we are saved of meer Grace and Favour; but yet it is with respect to some satisfaction made to the Justice of God: And therefore,</p>
+            <p n="2">2. The only Plea for a guilty Sinner to be ju<g ref="char:EOLhyphen"/>stified upon, is to plead Satisfaction to the Justice of God; and this is the only Plea that a Sinner has to make, when cited to God's Bar; O Lord, <hi>I readily acknowledge that I have grieved thy Spirit, broken thy Law, procured to my self the Curse; and that I can make no reparation, or satisfaction in my own person; and though I have nothing to plead in
+<pb n="11" facs="tcp:204225:15"/> or from my self, why Sentence should not immediately be pronounced against me; yet I have this to say for my self, why I should not be condemned; Thou hast given thy dear Son to be a Saviour for lost Sinners; he was made under the Law; in his holy Life he obey'd all its Precepts; and in his bitter Death endured the Curse and Penalty it threatned; and this he did in the room and stead of all his Elect, of all that were given him by thee from Eternity; yea, of all that re<g ref="char:EOLhyphen"/>ceive him, trust in him, rely upon him by a true and sa<g ref="char:EOLhyphen"/>ving Faith. I have this saving Faith; I see my need of Christ, that there is no way to the Father, but by him; I have received him as he is offered to me in the Go<g ref="char:EOLhyphen"/>spel; I lean upon him, I trust in him alone for Par<g ref="char:EOLhyphen"/>don and Life; he died for me, his Soul was made an Offering for my Sins, what he did was in my place; as my Surety, he has died for my Sins; therefore thou canst not in Justice damn me for them; I plead his Satisfaction; I stand before thy Tri<g ref="char:EOLhyphen"/>bunal in his perfect Righteousness; he was made Sin for me, and I am made the Righteousness of God in him.</hi>
+            </p>
+            <p>This is the Believer's Plea, yet do not mistake here; I do not mean, That a Person is never justified till he can thus in the Triumph of a strong Faith, with Assurance, apply Jesus Christ, and his Righteousness to himself; but that we are justified only in the sight of God, for the Satisfa<g ref="char:EOLhyphen"/>ction of Christ alone; and it is the Satisfaction, or Righteousness of Christ alone, that Faith pleads against all the Accusations that are brought in against the Sinner; and this is clearly proved in
+<pb n="12" facs="tcp:204225:16"/> these Scriptures, <hi>Ps.</hi> 51.7. <hi>Sprinkle me with</hi>
+               <note n="*" place="bottom">
+                  <hi>i e.</hi> Aspersione Sanguinis Christi, quae significata, at{que} praefi<g ref="char:EOLhyphen"/>gurata fuit per aspersionem Apuae Lustralis, de qua Lex extat, <hi>Num. 19.</hi>
+               </note>
+               <hi>Hysop, and I shall be clean; wash me, and I shall be whiter than Snow. David</hi> here, from the Guilt of Sin, flies to the Bloud of Sprinkling; for it was the Bloud of Christ that was signified by the <hi>Water of Separation,</hi> to be sprinkled with <hi>Hysop, Num.</hi> 19.18, 20. as also the Sprinkling of the <hi>Bloud of the</hi>
+               <note n="*" place="bottom">
+                  <hi>Item,</hi> Per Aspersionem Legalem atque Ceremonialem, in<g ref="char:EOLhyphen"/>telligitur Aspersio Spiritualis, <hi>i. e.</hi> Sanguis Christi, <hi>Pisc.</hi> in loc.</note>
+               <hi>Bird,</hi> Lev. 14.6. Which was to be done with <hi>Cedar-wood, Scarlet, and Hysop:</hi> To which <hi>David</hi> here looks. <hi>Rom.</hi> 8.34. <hi>Who is he that condemneth? It is Christ that died; yea rather, that is risen again,</hi> &amp;c. Where you may see what it is that the Apostle opposeth against all the Ac<g ref="char:EOLhyphen"/>cusations that the Law, World, Sin, Conscience, or Devils can bring in against the Believer. And this brings us to the Third Step in our Justifica<g ref="char:EOLhyphen"/>tion; and that is,</p>
+            <p n="3">3. Upon this Plea the Sinner is acquitted, and discharged at God's Bar; a Sinner is then justi<g ref="char:EOLhyphen"/>fied, when he is, by God, at whose Bar he was arraigned, acquitted, and discharged from all the Penalties, Curses, and Threatnings of the Law. <hi>Rom.</hi> 8.33. <hi>Who shall lay any thing to the Charge of God's Elect? it is God who justifieth: Who shall condemn? it is Christ that died.</hi> The Law
+<pb n="13" facs="tcp:204225:16"/> curses, Satan, and Conscience, and the World accuse; but to little purpose; for <hi>God justifieth, i. e.</hi> for the satisfaction of Christ, which he made to the Law, as our Surety, God doth freely ab<g ref="char:EOLhyphen"/>solve, acquit, and discharge all his Elect, and pronounce them just and righteous in his sight.</p>
+            <p>Now there are Three Times in which God doth thus justifie a Believer.</p>
+            <p n="1">1. Immediately upon his Believing; in that very moment when a Sinner comes to Christ by Faith, believeth in him in a saving manner, he is by God pardoned, and acquitted from all Crime, and owned in Christ a righteous Person. Faith is that Grace which entitles to Eternal Life: Therefore we are said to be justified by Faith; <hi>Rom.</hi> 4.5. <hi>But to him that worketh not, but belie<g ref="char:EOLhyphen"/>veth on him that justifieth the Ʋngodly, his Faith is accounted for Righteousness.</hi>
+            </p>
+            <p n="2">2. At Death: When a Believer dies, God then in Christ accepts him as a righteous Person; the Soul comes to God's Tribunal; there God passes Sentence: As the Wicked are at Death doom'd to Hell, and Everlasting Fire, so the Godly are justified, and taken to Glory.</p>
+            <p n="3">3. At the great Day of Judgment, that will be more eminently a Day of Justification to the Righteous, and a Day of Condemnation to the
+<pb n="14" facs="tcp:204225:17"/> Wicked; then the Saints shall be declared righ<g ref="char:EOLhyphen"/>teous by publick Sentence of the Judge of Quick and Dead.</p>
+            <p>So that upon the whole, we may reduce Justi<g ref="char:EOLhyphen"/>fication to these two Things, 1. In the Free Pardon and Forgiveness of all our Sins, <hi>Rom.</hi> 3.24.25. <hi>Being justified freely by his Grace, through the Redemption that is in Jesus Christ, whom God hath set forth to be a Propitiation through Faith in his Blood, to declare his Righteousness for the Re<g ref="char:EOLhyphen"/>mission of Sins that are past,</hi> Eph. 1.7. <hi>In whom we have Redemption through his Bloody, even the Re<g ref="char:EOLhyphen"/>mission of Sins.</hi> 2. The Acceptation of our Per<g ref="char:EOLhyphen"/>sons, as righteous in his Sight; the giving us an actual Right and Title to Glory; this is more than Pardon. Pardon of Sin only takes away the Obligation to Punishment; but it gives no actual Right to Glory. God might pardon a Sinner; and yet annihilate him: But in Justifica<g ref="char:EOLhyphen"/>tion, the Believer has a Right and Title to Glo<g ref="char:EOLhyphen"/>ry, <hi>Rom.</hi> 5.1, 2. <hi>Being justified freely by his Grace, we have Peace with God through our Lord Jesus Christ,</hi> v. 2. <hi>By whom also we have access by Faith into this Grace, wherein we stand and rejoice in the Hope of the Glory of God,</hi> v. 18.—<hi>By the Righ<g ref="char:EOLhyphen"/>teousness of one,</hi> viz. <hi>Christ, the free Gift came upon all Men (i. e.</hi> all Believers) <hi>unto Justification of Life.</hi>
+            </p>
+            <p>Thus you have seen what Justification is, that it is the absolving and discharging a Sinner accu<g ref="char:EOLhyphen"/>sed at God's Bar, and accepting, and accounting him righteous in the sight of God; not for any
+<pb n="15" facs="tcp:204225:17"/> inherent Righteousness wrought in himself, but for the Righteousness of Christ alone.</p>
+            <p>
+               <hi>Secondly,</hi> We come now to the Proof of the Point, that it is the Righteousness of Christ a<g ref="char:EOLhyphen"/>lone, for which we are justified, and accounted righteous in the Sight of God. To clear this, consider,</p>
+            <p n="1">1. Justification cannot be without a Righte<g ref="char:EOLhyphen"/>ousness; that God who is just, and judgeth ac<g ref="char:EOLhyphen"/>cording to Truth, doth not esteem us righteous, unless we are so: We are all Violators of God's righteous Law, and are therefore under its Curse. <hi>Gal.</hi> 3.10. <hi>Cursed. is every one that conti<g ref="char:EOLhyphen"/>nueth not in all things written in the Book of the Law, to do them:</hi> Though we sin, yet the Law stands firm; the Promises indeed we had sinned away, but the Curse and Threatnings remain. The Law may be considered in a double Notion: First, In its primordial Rigour, requiring per<g ref="char:EOLhyphen"/>fect personal Obedience from us, and threatning Death, in case of the least Disobedience: Or else the Law may be taken, as it is by God so relaxed, as to admit of a Satisfaction, when violated and broken by us; so that we must have a Righteousness to answer the Law; we must some way or other be constituted righte<g ref="char:EOLhyphen"/>ous, as to the Law: And that Righteousness, which the Law requires must be found in us, as the Apostle speaks, <hi>Rom.</hi> 8.4. or we can never be justified. God will never do that himself which he abominates in others. <hi>Prov.</hi> 17.15. <hi>He that justifieth the Wicked is abomination to
+<pb n="16" facs="tcp:204225:18"/> the Lord:</hi> So that we must have a Righteousness, for which we may be constitiited righteous in the Sight of God. And this being granted; then,</p>
+            <p n="2">2. This Righteousness must either be a Righ<g ref="char:EOLhyphen"/>teousness inherent in our own Persons, which is the Righteousness of Works or Sanctification; or else a Righteousness without us inherent in the Person of another.</p>
+            <p>But 'tis certain, we are not justified or accoun<g ref="char:EOLhyphen"/>ted righteous in the Sight of God, by, or for any Righteousness of Works or Sanctification, inherent in our selves, as may appear,</p>
+            <p n="1">1. If we are justified, and accounted righ<g ref="char:EOLhyphen"/>teous in God's Sight, by Works, or by any Righteousness in us, or done by us; then that Righteousness must answer the Law, that we are under. Now the Law requires perfect Obedience; and indeed if any can be found that have not violated the Law, but are righteous, as <hi>Adam</hi> in Innocency was, then such may have Eternal Life for their Works. But we are all Sinners, Jews <hi>and</hi> Gentiles <hi>all under Sin,</hi> Rom. 3.9. <hi>All the World is become guilty before God,</hi> v. 19. <hi>So that by the Works of the Law, no Flesh can be ju<g ref="char:EOLhyphen"/>stified in the Sight of God,</hi> v. 20.</p>
+            <p n="2">2. If we are justified by Works, or any Thing inherent in our selves; then we have whereof we may glory, <hi>Rom.</hi> 4.2. <hi>If</hi> Abraham <hi>were justified by Works, he hath whereof to glory,</hi> if <hi>Abraham</hi> was justified by any thing in himself; then he had
+<pb n="17" facs="tcp:204225:18"/> something to glory of before God: But <hi>Abraham,</hi> and all Believers are justified in such a way, as excludech all boasting. <hi>Rom.</hi> 3.27. <hi>Where is boasting then? It is excluded. By what Law? Of Works? Nay, but by the Law of Faith.</hi> So <hi>Eph.</hi> 2.8, 9. <hi>By Grace ye are saved through Faith; and that not of your selves, it is the Gift of God; not of Works, lest any Man should boast.</hi> So 1 <hi>Cor.</hi> 1.30. <hi>But of him are ye in Christ Jesus, who of God is made unto us Wisdom, and Righteousness, and Sanctification, and Redemption,</hi> v. 31. <hi>That according as it is written, He that glorieth, let him glory in the Lord.</hi>
+            </p>
+            <p n="3">3. If we were justified by an inherent Righ<g ref="char:EOLhyphen"/>teousness in our selves; then we are justified not of Grace, but of Debt, <hi>Rom.</hi> 4.4. <hi>Now to him that worketh, the Reward is not reckoned of Grace, but of Debt.</hi> But the Reward is not of Debt, but of Grace, <hi>Rom.</hi> 3.24. <hi>Being justified freely by his Grace.</hi>
+            </p>
+            <p>
+               <hi>Objection,</hi> If God accept us as righteous for our own sincere Obedience to the Gospel, as if we were perfectly righteous; Is not this of Free Grace?</p>
+            <p>
+               <hi>Answer.</hi> Though it be granted, that all good Works done by the Children of God, are the Effects and Fruits of God's Grace in them; other<g ref="char:EOLhyphen"/>wise they are no ways acceptable to God, <hi>Prov.</hi> 15.8. <hi>The Sacrifice of the Wicked is abomination to the Lord.</hi> Yet when the Apostle saith, <hi>We are justified freely by Grace, according to the Redem<g ref="char:EOLhyphen"/>tion
+<pb n="18" facs="tcp:204225:19"/> that is in Jesus Christ.</hi> Grace is there op<g ref="char:EOLhyphen"/>posed to all manner of Works; not only done by the Power and Strength of Nature, but such as are done by the help of Free Grace. He that has any thing in himself, to bring him off at God's Bar, may challenge Justification as due to it. But we have before proved, that Faith and Works are opposed one against the other by the Apostle: So to be justified by Free Grace, is to be justified by Faith, apprehending Christ's Righteousness, <hi>who of God is made Righteousness to us,</hi> 1 Cor. 1.30.</p>
+            <p n="4">4. If <hi>Abraham,</hi> who was the Father of the Faithful, was not justified by Works; then not we: But <hi>Abraham</hi> was not justified by Works, <hi>Rom.</hi> 4.2, 3, 4. but by Faith in Christ; or for the Righteousness of Christ apprehended by Faith.</p>
+            <p>Therefore that Righteousness, by, and for which we are justified, must be the Righteous<g ref="char:EOLhyphen"/>ness of another; that is, of Christ, who is the Lord our Righteousness.</p>
+            <p>Now here take notice what is meant by the Rightousness of Christ: By the Righteousness of Christ is meant the whole Obedience of Christ, which he performed to the Law in his Estate of Humiliation, from his Conception in the Womb of the Virgin <hi>Mary,</hi> to his Resurrection from the Grave, taking in both his active Obedience to the Law, as also his bitter Death and Suffe<g ref="char:EOLhyphen"/>rings: This is that Righteousness, which is imputed to us, and for which we are justi<g ref="char:EOLhyphen"/>fied,
+<pb n="19" facs="tcp:204225:19"/> and accounted righteous in the Sight of God.</p>
+            <p>Now that we are justified only for the Righ<g ref="char:EOLhyphen"/>teousness of Christ, abundantly appears from these Scriptures:</p>
+            <p>Rom. 3.21. <hi>But now the Righteousness of God without the Law, is manifested, being witnessed by the Law and the Prophets.</hi> Some might object, If there be no Justification by the Law, how then may a Person become righteous? Is there any other Way? To this, the Apostle answers, yes, there is another Way of Justification, and becoming righteous in the Sight of God: There is another Righteousness, besides <hi>The Righteous<g ref="char:EOLhyphen"/>ness of the Law;</hi> viz. <hi>The Righteousness of God,</hi> which is the Righteousness of Christ; which un<g ref="char:EOLhyphen"/>der the Law, was witnessed by many clear Pro<g ref="char:EOLhyphen"/>phecies of Christ, and Salvation by Faith in him: As that to <hi>Abraham, Gen</hi> 12.3. <hi>In thee shall all the Families of the Earth be blessed.</hi> As also by Types, such as the <hi>Brazon Serpent,</hi> the <hi>Paschal Lamb,</hi> the <hi>Cloud and Rock in the Wilderness:</hi> As also all the Sacrifices, Ceremonies; and Offerings of the Law: These all signified Christ, and Sal<g ref="char:EOLhyphen"/>vation by Faith in his Blood and Righteous<g ref="char:EOLhyphen"/>ness.</p>
+            <p>And then in the Text, he shews what Righ<g ref="char:EOLhyphen"/>teousness he means; namely, that Righteousness which is found not in us, but in Christ<note n="*" place="bottom">Justitiam inquan Dei, paucis Verbis ostendit qualis sit haec Justificatio; nempe, quod in Christo resideat <hi>Calv.</hi> in locum.</note>. And
+<pb n="20" facs="tcp:204225:20"/> for this Righteousness alone, we are freely justi<g ref="char:EOLhyphen"/>fied, and accounted righteous in the Sight of God, v. 24. <hi>Being justified freely by his Grace, through the Redemption that is in Jesus Christ.</hi>
+            </p>
+            <p>And then <hi>v.</hi> 25. he shews that the Righteous<g ref="char:EOLhyphen"/>ness of Christ, is the only Righteousness that God hath set forth and ordained: And which in the Gospel is revealed, <hi>Rom.</hi> 1.17. And held out to our Faith, to be received and trusted in for Pardon, Justification, and Life.</p>
+            <p>And <hi>v.</hi> 26. the Apostle shews, that this way of Justification by Faith in Christ; or Faith ap<g ref="char:EOLhyphen"/>prehending, and trusting in the Righteousness of Christ, is that way wherein the Justice of God, as well as his Mercy, is manifested. God is just and righteous; and therefore when the Justice of God was affronted by Sin, God could not, in Justice, remit the Sin, without some Satisfaction to Justice. Now here God appears to be just, in that he severely punished our Sins in the Per<g ref="char:EOLhyphen"/>son of his own dear Son; and then freely justi<g ref="char:EOLhyphen"/>fieth us for the Obedience of Christ, imputed to us.</p>
+            <p>From all which, the Conclusion is very clear, <hi>v.</hi> 28. <hi>Therefore we conclude, that a Man is justi<g ref="char:EOLhyphen"/>fied by Faith without the Deeds of the Law;</hi> that is, that all good Works wrought by us, either before, or after Conversion; either by the Strength of Nature, or Grace, have nothing to do at all in our Justification, in the Sight of God: But it is only the Righteous<g ref="char:EOLhyphen"/>ness of Christ, apprehended by a true Faith, that is, the Righteousness for which we are
+<pb n="21" facs="tcp:204225:20"/> justified, and accounted righteous in the Sight of God.</p>
+            <p>Again, this Doctrine of Justification, by Faith in Christ, is yet more fully proved, <hi>Rom.</hi> 4.3. Abraham <hi>believed God, and it was imputed unto him for Righteousness.</hi> Consider what it was, that <hi>Abraham</hi> believed; the Object of <hi>Abraham</hi>'s Faith, was Christ, <hi>Gal.</hi> 3.8. <hi>The Scripture fore<g ref="char:EOLhyphen"/>seeing, that God would justifie the</hi> Heathen, <hi>through Faith, preached before the Gospel unto</hi> Abraham, <hi>saying in thee</hi>
+               <note n="*" place="bottom">In te; id est, in Christo ex te nascituro, in quem tu Credis, <hi>Piscator</hi> in Locum.</note>
+               <hi>shall all Nations be blessed;</hi> that is, in Christ, to be born of thee according to the Flesh; and him, in whom thou believest. And we read, <hi>Joh.</hi> 8.56. that <hi>Abraham</hi> could see Christ's Day, and rejoice in it: So it was Christ, in whom <hi>Abraham</hi> believed; and that blessed Rest he expected, was not in his Works, or Obedience to the Law, but in the promised <hi>Messiah:</hi> So that <hi>Abraham</hi> was justified by Faith in Christ, as all Believers now are. Now <hi>Abra<g ref="char:EOLhyphen"/>hams</hi> the Pattern of Justification; as he was justi<g ref="char:EOLhyphen"/>fied, so are all Believers: But he was justified by the imputation of the Righteousness received by Faith, and consequently, so are all that believe according to the Pattern and Example of <hi>Abra<g ref="char:EOLhyphen"/>ham.</hi>
+            </p>
+            <p>Again, <hi>Rom.</hi> 5. This Doctrine of Justification by the Righteousness of Christ imputed, is clearly proved; where the Apostle parallels the <hi>Two Adams;</hi> shewing, that, as we are ruined by the one, so we are restored by the other, <hi>Ver.</hi> 18.
+<pb n="22" facs="tcp:204225:21"/>
+               <hi>As by the Offence of one, Judgment came upon all men to condemnation; even so, by the Righteousness of one, the free Gift came upon all men to Justification of Life.</hi> Hence you see, All, by the Sin and Offence of <hi>Adam,</hi> are brought into a state of Condem<g ref="char:EOLhyphen"/>nation; not the Sin inherent in us, but in the Per<g ref="char:EOLhyphen"/>son of <hi>Adam; i. e.</hi> The imputation of <hi>Adam</hi>'s Sin to us, puts us into a state of Guilt and Condem<g ref="char:EOLhyphen"/>nation, even so the Righteousness of Jesus Christ, not inherent in us, but that which Christ perfor<g ref="char:EOLhyphen"/>med to the Law in our stead, is that Righteous<g ref="char:EOLhyphen"/>ness that frees us from the Guilt of <hi>Adam</hi>'s Sin, and makes us just and righteous in the sight and presence of God: Here <hi>Adam</hi> and <hi>Christ</hi> are held out, not as two private Persons; but as two Roots: From the one springeth Sin and Death by Nature; from the other springeth Righteous<g ref="char:EOLhyphen"/>ness and Life, by Grace; only with this diffe<g ref="char:EOLhyphen"/>rence, <hi>Adam</hi>'s <hi>All,</hi> are all Mankind; but <hi>Christ</hi>'s <hi>All,</hi> are only his Spiritual Seed, <hi>Isa.</hi> 53.10. <hi>He shall see his Seed.</hi> Psal. 22.30. <hi>A Seed shall serve him;</hi> that is, such as were eternally elected by the Father. <hi>Eph.</hi> 1.4. <hi>Given to Christ in the Cove<g ref="char:EOLhyphen"/>nant of Redemption.</hi> John 6.37. <hi>Drawn to Christ by the Father.</hi> V. 44. <hi>Ʋnited to Christ by Faith;</hi> and made spiritually <hi>living Members in him,</hi> John 3.36.</p>
+            <p>Again, 1 <hi>Cor.</hi> 1.30. <hi>Of him are ye in Christ Je<g ref="char:EOLhyphen"/>sus, who of God is made unto us Wisdom, Sanctifica<g ref="char:EOLhyphen"/>tion, Righteousness, and Redemption.</hi>
+            </p>
+            <p>The <hi>Papists, Socinians, Arminians,</hi> and <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> confound Sanctification and Justification to<g ref="char:EOLhyphen"/>gether; but here you see they are plainly distin<g ref="char:EOLhyphen"/>guished
+<pb n="23" facs="tcp:204225:21"/> from each other, Sanctification is, as you have heard, the blessed Work of the Spirit of God in us; but Christ his being made Righte<g ref="char:EOLhyphen"/>ousness to us, as Learned Mr. <hi>Calvin,</hi> on the Place, observes, is, that we are for the Merit and Satisfaction of Christ, imputed to us, made acceptable and righteous in the sight of God. 2 <hi>Cor.</hi> 5.21. <hi>He hath made him to be sin for us, who knew no sin, that we might be made the Righteousness of God in him.</hi> Isa. 45.24. <hi>In the Lord shall one say, surely have I righteousness and strength.</hi> And again, <hi>Jer.</hi> 23.6. <hi>This is the Name wherewith he shall be called, The Lord our Righteousness.</hi>
+            </p>
+            <p>Thus you see how pregnant, and abundant the Scripture is in this Heavenly Truth; That that Righteousness that constitutes and makes a Sinner righteous in God's sight and confers an actual Title to Eternal Life, is not our own Works, or the inherent Righteousness of Sanctification; but the active and passive Obe<g ref="char:EOLhyphen"/>dience of Christ, imputed to us. And so we pass on to the Third Thing premised; and that is to shew how this Righteousness of Christ becomes ours.</p>
+            <p>Now the Righteousness of Christ becomes ours these two Ways:</p>
+            <p n="1">1. On God's Part; It is imputed to us.</p>
+            <p n="2">2. On our Part; It is received by Faith.</p>
+            <p>
+               <hi>First,</hi> On God's Part, we are made partakers of the Righteousness of Christ, by the free
+<pb n="24" facs="tcp:204225:22"/> imputation of it to us. The imputation of the Righteousness of Christ to Believers, is that free action of God, wherein he accounteth the whole Obedience of Christ, from his Concepti<g ref="char:EOLhyphen"/>on to his Resurrection, to be so far ours, as that for it we should be accounted righteous in the sight of God, and Heirs of eternal Life. This imputation of the Righteousness of Christ to us, is more than Imputation in the Effects, for the pardon of Sin; but as that Learned Bishop<note n="*" place="bottom">Ipsissima Christi Obedientia nobis imputatur, quasi esset nostra personalis. <hi>B. Davenant,</hi> De Justificat. <hi>p. 364, 373.</hi>
+               </note> expresses it; The very Obedience of Christ is imputed to us, as if it were our per<g ref="char:EOLhyphen"/>sonal Righteousness.</p>
+            <p>And this heavenly Doctrine, however much it be opposed in this corrupt Age, by <hi>Rome</hi>'s Advocates; yet it is a Truth that shines forth with much clearness from the Word of God. <hi>Rom.</hi> 4.3. <hi>Abraham</hi> was justified by imputed Righteousness. We have before proved, that Christ was the Object of <hi>Abraham</hi>'s Faith; it was the Righteousness of Christ received by his Faith, that was imputed to him; and so all that believe, must be justified in the same way as <hi>Abraham</hi> was.</p>
+            <p>Now the better to conceive the manner of this Imputation, consider these two Things:</p>
+            <p n="1">
+               <pb n="25" facs="tcp:204225:22"/>1. As <hi>Adam</hi>'s Sin is imputed to his Poste<g ref="char:EOLhyphen"/>rity; even so is Christ's Righteousness impu<g ref="char:EOLhyphen"/>ted to Believers: Now <hi>Adam</hi>'s Sin was impu<g ref="char:EOLhyphen"/>ted to all his Posterity, <hi>Rom.</hi> 5.12. <hi>For that all have sinned;</hi> so in our English Translation; but the Words should rather be read, <hi>In whom all have sinned;</hi> as in the Margin<note n="†" place="bottom">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>; Those Words, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, one Rela<g ref="char:EOLhyphen"/>tive; and so <hi>Beza, Piscator, Pareus, Montanus,</hi> &amp;c. read them; <hi>In quo omnes peccarunt,</hi> i. e. <hi>In Adamo.</hi>
+               </note>: That is, his Sin was imputed to all, and brought all into a state of Condemnation; as appears at large, in <hi>ver.</hi> 16, 17, 18, 19, 20, 21. Even so the Righteousness of Christ is imputed to all Be<g ref="char:EOLhyphen"/>lievers; and as <hi>Adam</hi>'s Sin makes us Sinners by Imputation; so Christ's Righteousness makes us righteous by Imputation. <hi>Ver.</hi> 19. <hi>As by one Man's Disobedience many were made Sinners; so by the Obedience of one shall many be made righ<g ref="char:EOLhyphen"/>teous.</hi>
+            </p>
+            <p n="2">2. As the Sins of all the Elect were impu<g ref="char:EOLhyphen"/>ted to Christ, and he treated as a Sinner, con<g ref="char:EOLhyphen"/>demned as a Sinner; as appears from <hi>Isa.</hi> 53.4. <hi>Surely he hath born our Griefs, and carried our Sorrows.</hi> Ver. 5. <hi>He was wounded for our Trans<g ref="char:EOLhyphen"/>gressions, he was bruised for our Iniquities.</hi> Ver. 6. <hi>All we, like Sheep, have gone astray; we have tur<g ref="char:EOLhyphen"/>ned every one to his own way; and the Lord hath laid on him the Iniquities of us all.</hi> Ver. 8. <hi>For the Transgressions of my People was he smitten.</hi> 1 Per. 2.24. <hi>Who his own self bore our Iniquities
+<pb n="26" facs="tcp:204225:23"/> in his own Body upon the Tree.</hi> Thus 'tis cer<g ref="char:EOLhyphen"/>tain that our Sins were laid upon Christ; and this could be no otherwise than by Imputa<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Now even so is Christ's Righteousness impu<g ref="char:EOLhyphen"/>ted to Believers. 2 <hi>Cor.</hi> 5.21. <hi>He hath made him to be Sin for us who knew no Sin, that we might be made the Righteousness of God in him;</hi> that is, as our Sins were imputed to Christ, and he for them reputed, and treated as a Sinner; so is his Righteousness imputed to us, and we for it reputed, and treated as righteous Persons in the sight of God.</p>
+            <p>Now if any ask, how that Righteousness which Christ performed in his own Person, can be imputed to us; let these Two Things be considered:</p>
+            <p n="1">1. That what Christ did, he did it as a common Person. A common Person is one who represents, personates, and acts the Part of another; and what he doth as such, in the Name of another, is looked on as done by the Person whom he represents: Such a common Person was <hi>Adam;</hi> he represented, and perso<g ref="char:EOLhyphen"/>nated all Mankind; therefore his Sin was the Sin of all: Such a common Person was the High-Priest under the Law; he acted in the Name, and on the behalf of the People: And such a common Person is Christ; as is fully proved in the Parallel of the Two <hi>Adams, Rom.</hi> 5. He did what he did in our stead; and
+<pb n="27" facs="tcp:204225:23"/> this especially in his Priestly Office. The Apostle saith, <hi>Heb.</hi> 5.1. That <hi>every Priest is ordained for Men,</hi> to act in their behalf towards God; he paid our Debt, attoned Divine Justice for us; he was the Representa<g ref="char:EOLhyphen"/>tive of all Mankind; he sustained our Persons, he stood in our room, he suffered in our stead, not only for our Good, but in our Place; and so all he did was ours.</p>
+            <p n="2">2. Consider also, that Christ was our Sure<g ref="char:EOLhyphen"/>ty, <hi>Heb.</hi> 7.22. <hi>He was a Surety of a better Testa<g ref="char:EOLhyphen"/>ment.</hi> A Surety is one that is bound to do something for another; as, to pay a Debt, or bring one safe to such a Place: So Jesus Christ was bound for his Elect, to see all their Debts discharged, and the violated Law, and the Ju<g ref="char:EOLhyphen"/>stice of God fully satisfied, and the elect Sin<g ref="char:EOLhyphen"/>ner brought safe to Heaven; so that what Christ did, he did it as our Surety to the Father And hence it is, that all that Christ did be<g ref="char:EOLhyphen"/>comes ours.</p>
+            <p>And so much may suffice to be spoken to the First Thing; That the Righteousness of Christ becomes ours by Imputation.</p>
+            <p>
+               <hi>Secondly,</hi> We are made Partakers of the Righteousness of Christ on our Part, by Faith; so in the Text; <hi>The Righteousness of God, which is by Faith of Jesus Christ.</hi> The Faith of Jesus Christ here, is not to be understood, for that Faith Christ had, or by which he
+<pb n="28" facs="tcp:204225:24"/> believed<note n="*" place="bottom">Fides Jesu Christi non activè, quam ipse Christus ha<g ref="char:EOLhyphen"/>bet; sed passivè, qua ipse Christus habetur, seu possidetur, seu non qua ipse credit, sed qua in ipsum creditur. <hi>Parcus</hi> in Locum.</note>; but that Faith, by which he is had and received; not Christ's Faith in the Father, but our Faith in Christ.</p>
+            <p>Now here I shall do two things,</p>
+            <p n="1">1. Shew you the Nature of justifying Faith.</p>
+            <p n="2">2. How Faith justifieth.</p>
+            <p n="1">1. What is that Saving Faith in Christ, by which we are justified in the Sight of God.</p>
+            <p>Justifying Faith, is a saving Grace wrought in the Heart of a Sinner by the Spirit and Word of God; whereby he being convinced of his Sin and Misery, and of the Disability in him<g ref="char:EOLhyphen"/>self, and all other Creatures, to recover him out of his lost Condition; not only assenteth to the Truth of the Promises of the Gospel, but re<g ref="char:EOLhyphen"/>ceiveth and resteth upon Christ, and his Righ<g ref="char:EOLhyphen"/>teousness therein held forth, for Pardon of Sin, and for the accepting, and accounting of his Person righteous in the Sight of God for Salva<g ref="char:EOLhyphen"/>tion.</p>
+            <p>Or thus:</p>
+            <p>Faith in Jesus Christ is a Saving Grace, whereby we receive, and rest upon him alone
+<pb n="29" facs="tcp:204225:24"/> for Salvation, as he is offered to us in the Gospel.</p>
+            <p>Here observe,</p>
+            <p n="1">1. The Nature of it is a saving Grace; hereby its distinguished from, and set above common Grace, <hi>Heb.</hi> 10.39. <hi>We are not of them who draw back unto Perdition, but of them that believe to the saving of the Soul.</hi> There is a common Faith, such as Hypocrites have, and there is a believing, to the saving of the Soul; yet it justifieth not as our Act, but instrumental, as it apprehends Christ; <hi>Act.</hi> 16.31. <hi>Believe on the Lord Jesus, and thou shalt be saved.</hi>
+            </p>
+            <p n="2">2. The Author of Faith in Jesus Christ, and that is God, whose Gift it is, and who works it by his Spirit; <hi>Eph.</hi> 2.8. <hi>Faith is the Gift of God;</hi> 2 <hi>Cor.</hi> 4.13. The Holy Ghost is the Spirit of Faith. See <hi>Eph.</hi> 1.17, 18, 19.</p>
+            <p n="3">3. The Instrument whereby the Spirit ordi<g ref="char:EOLhyphen"/>narily works Faith, is the Word preached; <hi>Rom.</hi> 10.17. <hi>Faith comes by hearings and hea<g ref="char:EOLhyphen"/>ring by the Word of God;</hi> 1 Cor. 15.11. <hi>So we preach and so you believe;</hi> the Word and Spirit go together in producing this Heaven<g ref="char:EOLhyphen"/>ly Grace: The Word without the Spirit can<g ref="char:EOLhyphen"/>not, and the Spirit without the Word will not work Faith; therefore wait on the Mi<g ref="char:EOLhyphen"/>nistry of the Word, but beg the quickning Virtue of the Spirit.</p>
+            <p n="4">
+               <pb n="30" facs="tcp:204225:25"/>4. Here is the Subject in which Faith is found.</p>
+            <p n="1">1. The Subject of Denomination, or the Person in whom alone saving Faith is found; and these are only the Elect; Hypocrites may believe with common Faith, but none but the Elect believe to the saving of the Soul, <hi>Tit.</hi> 1.1. <hi>according to the Faith of God's Elect; Act.</hi> 13.28. <hi>as many as were ordained to Eternal Life be<g ref="char:EOLhyphen"/>lieved.</hi>
+            </p>
+            <p n="2">2. <hi>Subjectum Ricipiens;</hi> the Parts of the Soul in which Faith is placed; and that is the Heart, <hi>Rom.</hi> 10.10. <hi>With the Heart Man believeth to Salvation.</hi> The Heart includeth Will and Af<g ref="char:EOLhyphen"/>fections; its not the Understanding only; and its in the Heart of a Sinner; an innocent Person cannot thus act Faith upon a Medi<g ref="char:EOLhyphen"/>ator.</p>
+            <p n="5">5. Here's the Object of Faith, and that is Jesus Christ; Faith indeed looks at the whole revealed Will of God; but Christ is the proper immediate Object of justifying Faith; 'tis not so properly Christ on the Throne, as Christ on the Cross; not Christ reigning, but Christ dying; <hi>Rom.</hi> 3.25. <hi>whom God hath set forth to be a Propitiation through Faith in his Blood.</hi>
+            </p>
+            <p>O here's the proper Act of Faith, as it justi<g ref="char:EOLhyphen"/>fieth; <hi>viz.</hi> a receiving, and resting upon Christ, and his Righteousness held out in the Gospel, for Pardon and Eternal Life.</p>
+            <p n="1">
+               <pb n="31" facs="tcp:204225:25"/>1. Man is convinced of Sin, and made to see what a woful state he is in by Nature, <hi>Rom.</hi> 7.9, 10.</p>
+            <p n="2">2. Jesus Christ is freely offered to him in the Promises of the Gospel, to save him from Sin and Hell. <hi>Mat.</hi> 11.28. <hi>Come to me all you that labour, and are heavy laden, and I will give you rest.</hi>
+            </p>
+            <p n="3">3. The Heart being drawn by the Spirit, draws near to Christ, throws it self into his Arms, hangs on the Promise, or rather, on Christ held out in the Promise, and will not leave him. Have you not seen how a poor Babe, in the Apprehension of some danger, flies to the Mother's Arms, and hangs about her Neck; even so a poor Sinner, pursued by the Terrors of the Law, runs to Christ, to hide him from Wrath to come; the Soul is now resolved to live and die with Christ.</p>
+            <p>And though he doth not presently get a Smile, or Assurance that Christ will own him; yet he hangs on him, and with holy <hi>Job,</hi> re<g ref="char:EOLhyphen"/>solves, <hi>Job.</hi> 13, 15. <hi>Though he slay me, yet will I trust in him.</hi>
+            </p>
+            <p>Now that Justifying Faith is a trusting and recumbency of heart on Christ, is clear from that one Text, among others, 2 <hi>Tim.</hi> 1.12. <hi>I know whom I have believed,</hi> (or trusted,) <hi>and am persuaded he is able to keep that which I have committed unto him</hi> (or entrusted him with, or, delivered up to his keeping,) <hi>against that day.</hi> And what was that be had thus committed to
+<pb n="32" facs="tcp:204225:26"/> Christ, but his Soul, and the eternal Salvation thereof?</p>
+            <p n="2">II. How doth Faith justifie?</p>
+            <p n="1">1. It is so clearly laid down in Scripture, that we are justified by Faith, that few deny it. <hi>Rom.</hi> 3.28. <hi>We conclude a Man is justified by Faith.</hi> Rom. 4.9. <hi>Abraham's Faith was imputed to him for righteousness.</hi> Rom. 5.1. <hi>Being therefore justified by Faith,</hi> &amp;c.</p>
+            <p n="2">2. But the greatest difficulty is, how Faith justifies?</p>
+            <p>Negatively; We are not justified by Faith in it self, as a Work, Quality, or Action in us, or done by us having worth or dignity in it to merit Justification at God's hands: In this Sense <hi>Papists</hi> allow Justification by Faith; but to be thus justified, is to be justified by our own inherent Righteousness.</p>
+            <p>But Faith justifieth, in respect of its Object, as an Instrument; looking at Christ, and his Righteousness. Faith is not our Righteousness,<note n="*" place="bottom">Fides non est Justitia nostra, sed Manus apprehen<g ref="char:EOLhyphen"/>dens, <hi>&amp;c. M. Mart.</hi>
+               </note> but the Hand, or Instrument apprehending the Righteousness of Christ, whereby we are justi<g ref="char:EOLhyphen"/>fied in the sight of God.</p>
+            <pb n="33" facs="tcp:204225:26"/>
+            <p>And therefore, when the Scripture saith. <hi>We we justified by Faith,</hi> it is ever to be understood, we are justified by the Righteousness of Christ, apprehended by Faith. As also this Phrase, <hi>We are justified by Faith alone:</hi> Although this Parti<g ref="char:EOLhyphen"/>cle <hi>[alone]</hi> be not found in so many Letters and Syllables in Scripture, yet we often meet with what is equivalent to it; as, <hi>Rom.</hi> 3.24. <hi>We are justified freely by his Grace, according to the redemption that is in Jesus Christ.</hi> So, <hi>Ver.</hi> 27. All <hi>Works</hi> are excluded; therefore 'tis by Faith alone. And, <hi>ver.</hi> 28. <hi>By Faith without the Deeds of the Law.</hi> So, <hi>Eph.</hi> 2.8.</p>
+            <p>Indeed that Faith that justifieth, is not alone; but is ever accompanied with all other Fruits of the Spirit, in its nature, it is inclusive of all good Works; yet, as it justifieth, it excludes all Works, and therefore is alone. As the Sun in the Heavens, is not alone, there are Thou<g ref="char:EOLhyphen"/>sands of Stars; yet not the Stars, but the Sun alone makes Day: So here Faith in the heart of a Believer, is not alone; there is in the same Soul all other heavenly Graces; as, Love of God, holy Fear, Repentance, Humility, Patience, <hi>&amp;c.</hi> yet Faith alone justifieth.</p>
+            <p>I shall here conclude this Head, by giving you a Scheme of the several Causes of our Justi<g ref="char:EOLhyphen"/>fication.</p>
+            <p n="1">1. The internal moving Cause is meer Grace in God. <hi>Vers.</hi> 24. <hi>We are justified freely by his Grace.</hi>
+            </p>
+            <p n="2">
+               <pb n="34" facs="tcp:204225:27"/>2. The external moving Cause of Justificati<g ref="char:EOLhyphen"/>on is Christ, God-Man; for as he is our Medi<g ref="char:EOLhyphen"/>ator, he hath procured this Gift for us.</p>
+            <p n="3">3. The Material Cause is the Righteousness of his whole Satisfaction; whereby he both obeyed the Law, and suffered the punishment due to us for Sin.</p>
+            <p n="4">4. The Formal, is the Imputation of our Sins to Christ, and his Righteousness to us, where<g ref="char:EOLhyphen"/>by it is made ours, as if we had performed it our selves, 2 <hi>Cor.</hi> 5.21.</p>
+            <p n="5">5. The external instrumental Cause is the Gospel; in which Christ and his Righteous<g ref="char:EOLhyphen"/>ness is offered, the way of Acceptance with God through Christ is shewed us, <hi>Rom.</hi> 1.16. <hi>Rom.</hi> 3.21.</p>
+            <p n="6">6. The internal instrumental Cause is Faith; which justifies no otherwise than as an Instru<g ref="char:EOLhyphen"/>ment, apprehending Christ. So hence it may appear how those Scriptures do agree, in which we are said to be justified, now by Grace, then by Christ's Merits, and then again, by Faith; for we are justified through God's Grace, for Christ's Merits, apprehended by Faith.</p>
+            <p n="7">7. The Declarative Cause of Justification, is good Works; whereby our Faith is proved to be not a dead, but a living Faith.</p>
+            <p n="8">
+               <pb n="35" facs="tcp:204225:27"/>8. The Final Cause of our Justification, is God's Glory, and our Salvation.</p>
+            <p>
+               <hi>Fourthly,</hi> We come now to answer some Ob<g ref="char:EOLhyphen"/>jections made against this heavenly Doctrine.</p>
+            <div n="1" type="objection">
+               <head>
+                  <hi>Objection</hi> 1.</head>
+               <p>This Doctrine of Justification by Faith alone, or the Imputation of the Righteousness of Christ, apprehended by Faith, seems contrary to the Doctrine of the Apostle <hi>James;</hi> who saith expresly, <hi>Jam.</hi> 2.21. that <hi>Abraham was justified by works.</hi> And, <hi>Ver.</hi> 24. <hi>Ye see then how that Man is justified by works, and not by Faith only.</hi> Now these two Propositions seem very contra<g ref="char:EOLhyphen"/>ry; that of S. <hi>Paul, We are justified by Faith, without the deeds of the Law;</hi> and that of St. <hi>James, We are justified by works, and not by Faith only.</hi>
+               </p>
+               <div type="answer">
+                  <head>Answer.</head>
+                  <p>Notwithstanding this seeming Difference, there is nevertheless a sweet Accord between these two Apostles; they both spake by the holy Spirit, which is a Spirit of Truth, and never utters any thing contradictory to itself, though it may seem so to us.</p>
+                  <p>There are two ways to reconcile St. <hi>Paul,</hi> and S. <hi>James.</hi>
+                  </p>
+                  <p n="1">
+                     <pb n="36" facs="tcp:204225:28"/>1. By rightly distinguishing the Word <hi>Ju<g ref="char:EOLhyphen"/>stification;</hi> which sometimes signifies the Absolu<g ref="char:EOLhyphen"/>tion of a Sinner at God's Bar; and so it is used by St. <hi>Paul,</hi> in the 3d. 4th. and 5th. Chapters to the <hi>Romans,</hi> where he treats of Justification; but then it is sometimes ta<g ref="char:EOLhyphen"/>ken for the Declaration of a Man righteous before Men; and in this sense St. <hi>James</hi> useth it. When <hi>James</hi> saith, <hi>We are justified by works,</hi> he doth not mean, that by, or for our works we are pronounced righteous at God's Bar; but declared righteous before Men: And this needs no farther proof, than that Instance of <hi>Abraham,</hi> Chap. 2. v. 21. That <hi>Abraham was justified by Works, when he offered up</hi> Isaac <hi>upon the Altar;</hi> its certain <hi>Abraham</hi> was justified in the sight of God long before, at least twenty five years, <hi>Gen.</hi> 15.6. Therefore <hi>Abraham</hi>'s Justification here is nothing else but the mani<g ref="char:EOLhyphen"/>festation of it by his Works to the World.</p>
+                  <p n="2">2. Another Way to reconcile these seeming Differences, is, by rightly distinguishing the Word <hi>Faith,</hi> Which,</p>
+                  <p n="1">1. Sometimes signifies a true and living Faith, which works by Love, and is productive of all manner of holy Obedience: And this is that Faith St. <hi>Paul</hi> speaks of, when he saith, <hi>We are justified by Faith alone;</hi> he means, that Faith that sets the Soul at work in hearty and sincere Obedience to God's Word:, and this St. <hi>James</hi> doth not deny,</p>
+                  <p n="2">
+                     <pb n="37" facs="tcp:204225:28"/>2. The Word <hi>Faith,</hi> is sometimes taken for a false, barren, and dead Faith, such as Devils and Hypocrites have; which consists in meer O<g ref="char:EOLhyphen"/>pinion, owning, and acknowledging the Arti<g ref="char:EOLhyphen"/>cles of Religion as true, but is it self dead, not producing Holiness of Heart and Life. This is that Faith here opposed by S. <hi>James:</hi> And there<g ref="char:EOLhyphen"/>fore when he saith, that <hi>Abraham, Rahab,</hi> &amp;c. <hi>were justified by Works,</hi> he means no more but this, they were justified by a working Faith; a Faith that is not barren, but productive of all good Works. So you see whatever see<g ref="char:EOLhyphen"/>ming difference there is in Words, between these two Apostles, there is none in Sense. St. <hi>Paul</hi> separates Works from Justification, but not from Faith; St. <hi>James</hi> joyns Works to Faith, but not to Justification.</p>
+               </div>
+            </div>
+            <div n="2" type="objection">
+               <head>
+                  <hi>Objection</hi> 2.</head>
+               <p>If we are justified by the imputation of Christ's Righteousness alone, all Works exclu<g ref="char:EOLhyphen"/>ded, doth not this open a Gap to Licentious<g ref="char:EOLhyphen"/>ness,; what need we endeavour to be holy? Christ hath done all, and left nothing for us to do, but to believe.</p>
+               <p>This is an old Objection urged against St. Paul, and therefore no wonder that Men of the same Spirit, yet make it against us. <hi>Rom.</hi> 6.1. <hi>Shall we continue in Sin, that Grace may abound?</hi> As if they had said, this Doctrine of being made righteous in the sight of God, by the imputa<g ref="char:EOLhyphen"/>tion of the Righteousness of Christ, if it be true,
+<pb n="38" facs="tcp:204225:29"/> gives us liberty to fulfil the Lust of our Flesh, to indulge our selves in sinful Ways.</p>
+               <div type="answer">
+                  <head>Answer.</head>
+                  <p n="1">1. Though Faith alone justifies; yet that Faith that doth justifie, is not alone, but is ever accompanied with good Works, it is a working Faith; and where-ever it is, engages the whole Man in a course of holy obedience to God. <hi>James</hi> 2.17. <hi>Faith without Works is dead being alone.</hi> Vers. 26. <hi>As the Body without the Spi<g ref="char:EOLhyphen"/>rit is dead, so Faith without Works is dead.</hi> Gal. 5.7. <hi>Faith that works by Love.</hi> Now let all judge what tendency this heavenly Truth can have to make Persons loose, that <hi>we are justified by Faith alone;</hi> that that Faith that justifieth, is not a dead, but living Faith, a heart-purifying Faith, that makes him that hath it, <hi>zealous of good works.</hi>
+                  </p>
+                  <p n="2">2. Justification and Sanctification always go together; he that is justified is certainly san<g ref="char:EOLhyphen"/>ctified, and he that is sanctified is likewise justified: And so the Apostle joins them together, 1 <hi>Cor.</hi> 1.30. <hi>Jesus Christ, who of God is made unto us Sanctification and Righteousness.</hi> 1 Cor. 6.11. <hi>But ye are sanctified, but ye are justified;</hi> so that he that is justified must needs be a holy Person.</p>
+                  <p n="3">3. Although Sanctification hath nothing to do in the Business of Justification in the sight of God, that being only by <hi>Faith without the Deeds of
+<pb n="39" facs="tcp:204225:29"/> the Law;</hi> yet there is no other way to evi<g ref="char:EOLhyphen"/>dence to our own Souls, that we are justified, but only by a work of Sanctification upon our hearts. He that would know whether he be justified before God or no; must examine his own Heart, concerning his Sanctification; for they that, are in Christ, <hi>walk not after the Flesh, but after the Spirit. Rom.</hi> 8.1.</p>
+               </div>
+            </div>
+            <div n="3" type="objection">
+               <head>
+                  <hi>Objection</hi> 3.</head>
+               <p>This Doctrine of Justification by the Impu<g ref="char:EOLhyphen"/>tion of the Righteousness of Christ, seems to dissolve the Law, as if it did no longer ob<g ref="char:EOLhyphen"/>lige to Obedience.</p>
+               <div type="answer">
+                  <head>Answer.</head>
+                  <p>This is an old Objection made against St. <hi>Paul,</hi> and his Preaching, <hi>Rom.</hi> 3.31. <hi>Do we then make void the Law through Faith? God forbid; yea, we rather establish the Law.</hi> The Apostle's An<g ref="char:EOLhyphen"/>swer is, That the Doctrine of Justification by Faith alone, is so far from destroying, that it rather establisheth the Law. And that it doth in these two respects:</p>
+                  <p n="1">1. The Law is established in Justification by Faith in Christ, in that Christ has both ful<g ref="char:EOLhyphen"/>filled the Precepts of the Law in his Life; as also fully satisfied for the Breach of the Law in his Death and Sufferings; and hence the
+<pb n="40" facs="tcp:204225:30"/> Righteousness of the <hi>Law is fulfilled in us,</hi> Rom. 8.4. <hi>i. e.</hi> in Christ our Surety.</p>
+                  <p n="2">2. The Law, though it be void to a Belie<g ref="char:EOLhyphen"/>ver, in respect of obtaining Justification; but in that respect it is become weak, and unable to answer its End, <hi>Rom.</hi> 8.3. Yet it is esta<g ref="char:EOLhyphen"/>blished as a Rule of Obedience to all Believers in Christ. We must obey it, not to be justi<g ref="char:EOLhyphen"/>fied by it; but by our obedience to it, to te<g ref="char:EOLhyphen"/>stifie our Thankfulness to God; not as a Cause of our Justification, but as an Evidence of our Interest in Christ. Our Obedience to the Law, is not our Title to Heaven; but it is our necessary Qualification to sit us for Heaven. <hi>Heb.</hi> 12.14. <hi>Without Holiness no Man shall see God.</hi>
+                  </p>
+               </div>
+            </div>
+            <div n="4" type="objection">
+               <head>
+                  <hi>Objection</hi> 4.</head>
+               <p>If we are righteous before God in the Righ<g ref="char:EOLhyphen"/>teousness of Christ, then God sees no Sin in us.</p>
+               <div type="answer">
+                  <head>Answer.</head>
+                  <p>True it is, God sees no Sin in a Saint with a vindictive Eye; but with an intuitive one he doth: He doth not see Sin in a justified Per<g ref="char:EOLhyphen"/>son, so as to revoke his Justification, and con<g ref="char:EOLhyphen"/>demn him for it. <hi>Rom.</hi> 8.1. <hi>No Condemnation to them that are in Christ Jesus.</hi> No Sin in a Believer lessens his Title to Heaven.</p>
+                  <pb n="41" facs="tcp:204225:30"/>
+                  <p>But yet nevertheless God bo<gap reason="illegible" resp="#keyers" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> sees, and is angry with the Sins of his People: And as a Father (not as an angry and revenging Judge) corrects and afflicts them for Sin, <hi>Psal.</hi> 89.30. <hi>If his Children</hi>
+                     <note n="*" place="bottom">Per Filios Christi hic intelligantur credentes. <hi>Pisc.</hi> in Locum.</note> (<hi>i. e.</hi> Christ's spiritual Seed and Offspring that are united to him by Faith) <hi>forsake my Law and walk, not in my Judgments.</hi>
+                  </p>
+                  <p>Verse 31. <hi>If they break my Statutes, and keep not my Commandments.</hi>
+                  </p>
+                  <p>Verse 32. <hi>Then will I visit their Transgre<g ref="char:EOLhyphen"/>ssions with the Rod, and their Iniquities with Stripes.</hi>
+                  </p>
+                  <p>Verse. 33. <hi>Nevertheless my loving Kindness will I not utterly take from him, nor suffer my Faithfulness to fail.</hi>
+                  </p>
+                  <p>Verse 34. <hi>My Covenant will I not break,</hi> &amp;c.</p>
+                  <p>I now proceed to the Application of the Doctrine.</p>
+               </div>
+            </div>
+            <div type="application">
+               <pb n="42" facs="tcp:204225:31"/>
+               <head>Application.</head>
+               <p>Is this so, that there is no other way for a Sinner to be justified in the Sight of God, but by the imputation of the Righteousness of Christ received by Faith alone; then we shall make a threefold Use of this blessed Truth.</p>
+               <p>A Use of
+<list>
+                     <item>1. Information.</item>
+                     <item>2. Examination.</item>
+                     <item>3. Exhortation.</item>
+                  </list>
+               </p>
+               <p>The first Use shall be of Information in Five Things.</p>
+               <p n="1">1. If this be so, that there is no other way of Justification, but by the Imputation of Christ's Righteousness, then this informs us, that the way of Justification taught by the Papists, is dangerous and destructive to Souls for they join Works with the Righteousness of Christ; or rather set up Works in the point of Justifica<g ref="char:EOLhyphen"/>tion, in opposition to Christ; as <hi>Vasques,</hi> a Popish Author saith, where he ascribes all to Works, nothing to Christ, as he is quoted by Mr. <hi>Pool,</hi> in his Dialogue: Saith, <hi>That Eternal Life is due to a good Man without any Covenant, or Favour of God: And, that the Merits of Christ add no Worth to the Works of
+<pb n="43" facs="tcp:204225:31"/> a good Man.</hi> Many more such like Sayings may be seen in <hi>Pool</hi>'s Dialogue, <hi>pag.</hi> 206. 207. A Book I could wish were in all Protestant-Hands<note n="*" place="bottom">Being not above 12 Pence price; and of admi<g ref="char:EOLhyphen"/>rable Use to principle Christians against Popish Er<g ref="char:EOLhyphen"/>rors.</note>. But I beseech you hold fast this blessed Truth, That we are justified in the Sight of God by the Righteousness of Christ imputed; and then all Antichristia Fogs will be dissipated.</p>
+               <p n="2">2. This being so, that we are justified by Faith alone; then this shews the Falseness and Dangerousness of the <hi>Arminian</hi> Way of Justi<g ref="char:EOLhyphen"/>fication: Which they thus express, That we are justified by Faith in a proper Sense; <hi>i. e.</hi> the Act of believing, is that that is imputed to us; and for which we are accepted with God, as if it were the perfect Righteousness of the Law. Or more plainly thus: Our Faith and sincere Obedience to the Gospel, is our Evangelical Righteousness, which God for Christ's sake accepts, as if it were perfect; but this Doctrine being true, that we are ju<g ref="char:EOLhyphen"/>stified by Faith, as it apprehends Christ, this must needs be false.</p>
+               <p n="3">3. This being so; then see what a rotten Sect the <hi>Quakers</hi> are; and as in most other, so they are very rotten in this fundamental Point, for whatever crafty Words they speak;
+<pb n="44" facs="tcp:204225:32"/> that they are justified by Christ, and his im<g ref="char:EOLhyphen"/>puted Righteousness, they mean nothing but their adored Light within: For in their De<g ref="char:EOLhyphen"/>claration of Faith, <hi>pag.</hi> 19, 20. though they endeavour to hide and cover their Error in this Point, by many crafty Words, such as this, that Acceptance with the Father is on<g ref="char:EOLhyphen"/>ly in Christ, and by his Righteousness impu<g ref="char:EOLhyphen"/>ted to us, <hi>&amp;c.</hi> But they, as the Papists, with whom they agree in many fundamen<g ref="char:EOLhyphen"/>tal Errors, have secret Reserves; say one thing, but mean another; they deny Faith, to receive Christ's Righteousness, calling it scoffingly an Act of the Creaturely Skill, and a Fiction of Man's Brain; and bring all to our Walking, as may there be Seen. And when they say, <hi>pag.</hi> 20. that it is not by Acts of Righteousness done by our selves, that we are justified; but by Christ, who works those Acts in us, and for us. Here you see 'tis Acts in us for which we we justified; not done by us, but by the Light in us, which they blasphemously call sometimes God, and sometimes the Holy Ghost, by, and from which the Holy Scriptures were written, as in the forecited Book, <hi>pag.</hi> 6. and sometimes Christ. Those that would see how gross they are in this Point, See these<note n="*" place="bottom">Reason against Railing, <hi>pag.</hi> 8. <hi>Whitehead's Append.</hi> 27. 28. <hi>Smith</hi> Collect. 56. <hi>Fox</hi>'s Myst. 10. 23. 131. Quakerism no Popery, 44 <hi>ad</hi> 57.</note> Books writ<g ref="char:EOLhyphen"/>ten by Ringleaders amongst them. But, dear
+<pb n="45" facs="tcp:204225:32"/> Christians, let me beg of you to receive this blessed Truth, that you have seen clearly proved from the Word of God; and then all <hi>Popish, Arminian,</hi> and <hi>Quaking</hi> Errors will vanish.</p>
+               <p n="4">4. See here also the Errors of the <hi>Anti<g ref="char:EOLhyphen"/>nomians</hi> confuted; who say, <hi>That we are justi<g ref="char:EOLhyphen"/>fied from Eternity:</hi> But this cannot be; be<g ref="char:EOLhyphen"/>cause we must he charged with Guilt before we can be justified, this could not be before we had sinned. Again, none can be justified till they believe. <hi>Joh.</hi> 3.36. actual Faith is not from Eternity. Again, there is a time when the Saints that are now justified, were under Condemnation, <hi>Eph.</hi> 2.2. 1 <hi>Cor.</hi> 6.11.</p>
+               <p n="5">5 This then informs of the great Sin and Guilt that is committed and contracted, by those Ministers that have received Charge of Souls and do not faithfully shew poor Sin<g ref="char:EOLhyphen"/>ners this way to Life and Glory; <hi>i. e.</hi> by the Imputation of Christ's Righteousness. Those are undoubtedly Enemies to their own, and Peoples Souls, who do not direct their People to the Righteousness of Christ for Justifica<g ref="char:EOLhyphen"/>tion and Eternal Life, and whatever such may now think or say, they'll find their Account very terrible, when the chief Shepherd shall appear, 1 <hi>Cor.</hi> 9.16. <hi>A Necessity is laid on me to peach the Gospel and wo unto me if I preach not the Gospel.</hi>
+               </p>
+               <pb n="46" facs="tcp:204225:33"/>
+               <p>The Second Use shall be of Examination. Is this so, that we are justified in the Sight of God, by the Imputation of Christ's Righ<g ref="char:EOLhyphen"/>teousness received by Faith alone?</p>
+               <p>Then let me beseech every one of you to make a pause here: Stand a while, and reflect seriously upon your selVes; put this Query to your own Hearts, Whether am I justified, or no? Clothed with the Righteous<g ref="char:EOLhyphen"/>ness of Christ, or no?</p>
+               <p>
+                  <hi>Quest.</hi> But how may I know whether I am a justified Person or no?</p>
+               <p n="1">1. Negatively, There be several sorts of Persons that may be sure they are not justi<g ref="char:EOLhyphen"/>fied, are not in Christ, have no Right or Ti<g ref="char:EOLhyphen"/>tle to Eternal Life. As, 1. All open, scanda<g ref="char:EOLhyphen"/>lous, and profane Sinners; who though in Words they may own Christ, yet in Works deny him, <hi>Tit.</hi> 1. <hi>ult.</hi> such as Swearers, Drun<g ref="char:EOLhyphen"/>kards, Scoffers at Holiness, Enemies to the Life and Power of Godliness, Profaners of Sabbaths, proud, covetous Worldlings, Atheists, such as live and allow themselves in a Trade and Course of Sin. The World is full of these; the Nation, Towns, Parishes, swarm with such: To be sure you that are such are not justified, <hi>Exod.</hi> 23.7. <hi>The Lord will not ju<g ref="char:EOLhyphen"/>stifie the Wicked.</hi>
+               </p>
+               <div type="objection">
+                  <pb n="47" facs="tcp:204225:33"/>
+                  <head>Objection.</head>
+                  <p>But is not God said to justifie the Ungodly? <hi>Rom.</hi> 4.5.</p>
+                  <div type="answer">
+                     <head>Answer.</head>
+                     <p>Though God find Sinners ungodly, yet he doth not leave them so; but always whom he justifies he sanctifieth, <hi>Rom.</hi> 8.30. <hi>Whom he called, them he justified,</hi> 1 <hi>Cor.</hi> 6.9, 10, 11. <hi>Know you not that the Ʋnrighteous shall not inherit the Kingdom of God. Be not deceived:</hi> (and then he gives you a Catalogue of such as are marching in the forlorn Hope for Hell:) And then adds, <hi>Such were some of you; but ye are washed, but ye are sanctified, but ye are justi<g ref="char:EOLhyphen"/>fied.</hi>
+                     </p>
+                     <p n="2">2. Such are not justified, as are ignorant of, and Strangers to the Way of Salvation by Jesus Christ, <hi>Joh.</hi> 17.3. <hi>'Tis Life Eternal to know God and Jesus Christ.</hi> I do not here speak of Infants or Idiots, but adult Persons; 'tis sad not to know Christ, to sit under a Ministry that does not reveal Christ: Igno<g ref="char:EOLhyphen"/>rance of any of the Fundamentals of Religion is dangerous, but Ignorance of Christ is dam<g ref="char:EOLhyphen"/>nable, 2 <hi>Thes.</hi> 1.8. <hi>Taking Vengeance on them that know not God.</hi>
+                     </p>
+                     <p n="3">3. Such as have no saving Work of God upon their Hearts, are Strangers to the Life
+<pb n="48" facs="tcp:204225:34"/> and Power of Godliness: These are not justi<g ref="char:EOLhyphen"/>fied; for Justification and Sanctification always go together.</p>
+                     <p n="2">2. Positively; If you are sanctified, you are justified. Now I beseech you, examine whe<g ref="char:EOLhyphen"/>ther ever you have felt that Heavenly Change upon your Hearts, mentioned <hi>Ezek.</hi> 36.25, 26, 27.</p>
+                     <p>But particularly, let me put you upon the Trial of your Faith; if you have saving Faith, you are justified Persons: Faith is that Grace that lays hold on Christ; and whoever hath it, hath Christ and Eternal Life in him, <hi>Mark</hi> 16. <hi>He that believeth shall be saved.</hi> Take these Signs of true saving Faith.</p>
+                     <p n="1">1. If your Hearts lie under the commanding Power of the Word of God, desire to obey every Command; then your Faith is right, and you are justified Persons, <hi>Psal.</hi> 119.4, 5, 6.</p>
+                  </div>
+               </div>
+               <div type="objection">
+                  <head>Objection.</head>
+                  <p>Alas, I am so far from obeying all, that I obey none as I should.</p>
+                  <div type="answer">
+                     <head>Answer.</head>
+                     <p>But can you not say with <hi>David,</hi> you respect all, <hi>v.</hi> 6. God accepts the Will for the Deed; if your Faith be right, its productive of Ho<g ref="char:EOLhyphen"/>liness, <hi>Jam.</hi> 1.17.</p>
+                     <p n="2">
+                        <pb n="49" facs="tcp:204225:34"/>2. Where there's saving Faith, Jesus Christ is prized above all the World, 1 <hi>Pet.</hi> 2.7. <hi>To you that believe, he is precious.</hi> Now what Thoughts have you of Christ, and what Affe<g ref="char:EOLhyphen"/>ctions to him? Do not you love him? Are not the Desire of your Souls to his Name? Do you prize Christ above all, and count it a singular Fa<g ref="char:EOLhyphen"/>vour and Honour to be employed for him, to wait on him in any of his Ordinances.</p>
+                     <p n="3">3. Faith purifies the Heart, <hi>Act.</hi> 15.9. its not so much for Shews as for Heart soundness, <hi>Psal.</hi> 119.30. Do you long for Heart-purity; then you are blessed, <hi>Matth.</hi> 5.6.</p>
+                     <p>O try your Faith, <hi>Joh.</hi> 3.36. <hi>He that believeth, hath Eternal Life.</hi>
+                     </p>
+                     <p>The third Use shall be of Exhortation, in two Branches.</p>
+                     <p n="1">1. To Sinners yet unjustified.</p>
+                     <p n="2">2. To the Saints, and such as are in Christ.</p>
+                     <p n="1">1. To you who are yet unconverted, and in a State of Condemnation; How dreadful is your Condition? God's righteous Law curses and condemns you, <hi>Gal</hi> 3.10. You are Sin<g ref="char:EOLhyphen"/>ners, God-provoking, Hell deserving Sinners: A Hellish Nature you brought into the World
+<pb n="50" facs="tcp:204225:35"/> with you, and Hellish Fruits hath it brought forth in your Lives. God hath been excee<g ref="char:EOLhyphen"/>dingly dishonoured by you: The Spirit of Grace has been grieved by you. The pre<g ref="char:EOLhyphen"/>cious things of God, and the great Things of Eternity, have been much slighted and ne<g ref="char:EOLhyphen"/>glected by you. You have been full of Cares and Projects for the Body and bodily Con<g ref="char:EOLhyphen"/>cerns; but your immortal Souls have been little regarded: You have lived, as if there had been no other World but this: As if the terrible Threatnings against Sin and Sin<g ref="char:EOLhyphen"/>ners, had been but meer Bugbears; and the precious Promises of the Gospel, but Fa<g ref="char:EOLhyphen"/>bles. And yet die you must, and enter up<g ref="char:EOLhyphen"/>on an Eternity of Glory in Heaven, or Mi<g ref="char:EOLhyphen"/>sery in the burning Lake in a very short Time.</p>
+                     <p>O, Sirs, I beg of you in the Bowels of Jesus Christ, that you will seriously set your selves to consider, how dreadful it will be to die before you live; to die a natural Death, before you live a spiritual Life. It will be dreadful for you to appear at the Bar of God out of Christ; to stand trembling before the Judge of Quick and Dead, without either the inherent Righteousness of Sanctification, or the imputed Righteousness of Justification; for if you have not the former, to be sure you have not the latter.</p>
+                     <p>You see here is Provision made; here is a perfect spotless Righteousness, able to co<g ref="char:EOLhyphen"/>ver all your spiritual Deformities, and to
+<pb n="51" facs="tcp:204225:35"/> present you without Spot and Blemish before God's Tribunal.</p>
+                     <p>And it is offered to you in the Gospel; you may have it if the Fault be not in your selves; you are fairly invited to come to Christ, <hi>Isa.</hi> 55.1. <hi>Ho, every one that thir<g ref="char:EOLhyphen"/>steth, come ye to the Waters; and he that hath no Money, Come ye, buy and eat; yea, come, buy Wine and Milk without Money, and without Price.</hi> So v. 7.</p>
+                     <p>And therefore be not so cruel to your own Souls, as to go on, and die in your Sins: Therefore let me beg this small Re<g ref="char:EOLhyphen"/>quest of you; I am not begging your Silver or Gold, nor your Favours to my self, but what infinitely concerns your own Everlasting Good. My Request is, that this Evening before you sleep, you would get alone, and put this Question solemnly and seriously to your selves: What am I? Whether am I justified by the Imputation of the Righteous<g ref="char:EOLhyphen"/>ness of Christ or no? If not; as there's no<g ref="char:EOLhyphen"/>thing so sure, as that I am not justified, if I am not sanctified, what will become of me when I die? How shall I dare to appear at God's righteous Bar? Now is this Request unreaso<g ref="char:EOLhyphen"/>nable? If I could tell what Words would af<g ref="char:EOLhyphen"/>fect your Hearts, I would speak them. I besecch you, my Brethren, one and another, young and old, rich and poor, be reconciled to God; nay, not I, but Jesus Christ, by me, be<g ref="char:EOLhyphen"/>seeches you to be reconciled. Suppose Jesus
+<pb n="52" facs="tcp:204225:36"/> Christ were now in this Pulpit, thus beseeching and inviting you to come to himself, believe in him, How would your Hearts melt? Why I am his Servant and Messenger, I come not of my self, he sent me; if you despise this Message, from my Mouth, you despise Christ, <hi>Luk.</hi> 10.16. <hi>He that heareth you, heareth me; and he that despiseth you, despiseth me.</hi> We are Ambassadors for Christ: as though God did beseech you by us. <hi>We pray you in Christ's Stead, be ye recon<g ref="char:EOLhyphen"/>ciled to God,</hi> 2 Cor. 5.20.</p>
+                     <p>The Second Branch of this Exhortation shall be to you that are in Christ: You are the Children of God by Faith; you can prove your Title to Christ's imputed Righteousness by the Fruits of the Spirit in your Hearts, <hi>Gal.</hi> 5.22.</p>
+                     <p n="1">1. Have you a saving Interest in Christ? live to him. <hi>Col.</hi> 2.6. <hi>As ye have received Christ Jesus the Lord, so walk in him.</hi> Remember, such as are in Christ walk not after the Flesh, but after the Spirit. O labour to be righte<g ref="char:EOLhyphen"/>ous as he is righteous; walk circumspectly, not as Fools, but as wise; as you call on the Name of Christ, depart from all iniqui<g ref="char:EOLhyphen"/>ty: Be much in Prayer to him, secret Prayer, <hi>Matth.</hi> 6.6. <hi>Enter into thy Closet, shut thy Door, pray to thy Father in secret.</hi> Let thy Heart run out, run over in Love to him. <hi>Cant.</hi> 1.7. <hi>O thou whom my Soul loves!</hi> The ignorant World calumniates this heavenly Do<g ref="char:EOLhyphen"/>ctrine
+<pb n="53" facs="tcp:204225:36"/> of Justification, to lead to Loosness. O convince Gainsayers by a strict, holy, heaven<g ref="char:EOLhyphen"/>ly Walk, that they that will speak evil of you, may have nothing rightly to accuse your good Conversation: Prize all the Truths of God: Stick close to every Ordinance; as new born Babes desire the sincere Milk of the Word, that you may grow thereby. O have a care that while you seek to be justified by Christ, you your selves are not found Sinners. <hi>Gal.</hi> 2.17. <hi>Be holy in all manner of Conversation.</hi> Be holy in your Closets, in your Families, in the inward Frame of your Hearts, and in all your dealing and converse in the World.</p>
+                     <p n="2">2. Do not only live to Jesus Christ; but live upon him; live by Faith. <hi>Gal.</hi> 2.20. <hi>The Life I live in the World, is by the Faith of the Son of God, who loved me, and gave himself for me.</hi>
+                     </p>
+                     <p n="1">1. Live upon Christ for Temporals; and this you may do with much comfort and ease; banish all anxious, distrustful, distracting Cares and Fears about the World. Cast your Care on him, he cares for you. <hi>Psal.</hi> 55.22. <hi>Cast thy Burthen upon the Lord, and he shall su<g ref="char:EOLhyphen"/>stain thee; he will never suffer the righteous to be moved.</hi> 1 Pet. 5.7. He that has given the greater, will certainly give the lesser. <hi>Rom.</hi> 8.32. <hi>He that spared not his own Son, but gave him up for us all, how shall he not with him freely give us all things?</hi> Also he that has given you Christ and Pardon, will give you Food and
+<pb n="54" facs="tcp:204225:37"/> Raiment, Provision and Protection, and what<g ref="char:EOLhyphen"/>ever may be necessary for you in this Life. <hi>Heb.</hi> 13.5, 6. <hi>Let your Conversation be without Covetousness; and be content with such things as you have; for he hath said, I will never leave thee, nor forsake thee.</hi> So that we may boldly say, <hi>The Lord is my Helper, I will not fear what Man shall do unto me.</hi>
+                     </p>
+                     <p n="2">2. Live upon Christ for Spirituals: especial<g ref="char:EOLhyphen"/>ly Pardon of Sin, and Acceptance in his sight; when at any time you are assaulted with Temp<g ref="char:EOLhyphen"/>tations about the state and Condition of your Souls; live in Duties, &amp; exercise Grace; but do not live upon them; but live wholly by Faith on Christ: When the Guilt of Sin stares you in the Face, and raises some Terror within, do as <hi>David</hi> did in the like case, <hi>Psal.</hi> 51.7. Fly to the Blood of Sprinkling. It would much conduce to the Peace and Comfort of Christians, if they did more believingly consider, that our Accep<g ref="char:EOLhyphen"/>tance with God is not for our Duties and Graces, but only for Christ's Merits. God doth not love his People the less for their remaining Infirmities. Sin in a Believer, may darken his Evidences, and put him upon true Acts of Humiliation and Repentance; but it cannot annul his Justi<g ref="char:EOLhyphen"/>fication. And therefore set not your own Du<g ref="char:EOLhyphen"/>ties and Graces, but the Death and Satisfacti<g ref="char:EOLhyphen"/>on of Christ, in opposition to all Charges that may be brought against you, either from the Law, Satan, or Conscience. <hi>Rom.</hi> 8.34. <hi>Who is he that condemneth? 'Tis Christ that died.</hi> Be as
+<pb n="55" facs="tcp:204225:37"/> holy and heavenly as you can; but live only upon Christ by Faith, for Pardon, Perseverance, and Eternal Life.</p>
+                  </div>
+               </div>
+            </div>
+            <closer>Triuni Deo Gloria.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:204225:38"/>
+            <head>Books lately Printed for <hi>Na<g ref="char:EOLhyphen"/>thanael Ranew,</hi> at the <hi>King</hi>'s-<hi>Arms</hi> in St. <hi>Paul</hi>'s <hi>Church-Yard, 1691.</hi>
+            </head>
+            <list>
+               <item>DIscourses, or Sermons on several Scriptures. By <hi>Ezekiel Hopkins,</hi> late Lord Bishop of <hi>London-Derry.</hi>
+               </item>
+               <item>The Naked Gospel: Discovering, 1. What was the Gospel our Lord and his Apostles prea<g ref="char:EOLhyphen"/>ched. 2. What Additions and Alterations lat<g ref="char:EOLhyphen"/>ter Ages have made in it. 3. What Advanta<g ref="char:EOLhyphen"/>ges and Damages have thereupon ensued. By <hi>Arthur Bury,</hi> Rector of <hi>Exeter</hi> Colledge, in <hi>Oxford.</hi>
+               </item>
+               <item>The True Interest of Nations stated. By <hi>An<g ref="char:EOLhyphen"/>thony Walker,</hi> D D.</item>
+               <item>The Midnight Cry, a Sermon on the Parable of the Ten Virgins. By <hi>J. Mason.</hi>
+               </item>
+               <item>The Holy Life of Mrs. <hi>Elizabeth Walker,</hi> late Wife of Dr. <hi>A. Walker.</hi>
+               </item>
+               <item>The best Match: Or, A Believers Marriage with Christ: A Sermon on the Parable of the Marriage of the King's Son. By <hi>Michael Harrison.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
